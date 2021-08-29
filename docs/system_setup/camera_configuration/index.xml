@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Camera Configuration on NGENUITY™ 3D Visualization System User Guide</title>
-    <link>https://naem-j.github.io/web-doc/system_setup/camera_confoguration/</link>
+    <link>https://naem-j.github.io/web-doc/system_setup/camera_configuration/</link>
     <description>Recent content in Camera Configuration on NGENUITY™ 3D Visualization System User Guide</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Jul 2021 23:19:59 -0700</lastBuildDate><atom:link href="https://naem-j.github.io/web-doc/system_setup/camera_confoguration/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Jul 2021 23:19:59 -0700</lastBuildDate><atom:link href="https://naem-j.github.io/web-doc/system_setup/camera_configuration/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Camera Sensor Initialization</title>
-      <link>https://naem-j.github.io/web-doc/system_setup/camera_confoguration/sensor_initialization/</link>
+      <link>https://naem-j.github.io/web-doc/system_setup/camera_configuration/sensor_initialization/</link>
       <pubDate>Sun, 25 Jul 2021 22:44:37 -0700</pubDate>
       
-      <guid>https://naem-j.github.io/web-doc/system_setup/camera_confoguration/sensor_initialization/</guid>
+      <guid>https://naem-j.github.io/web-doc/system_setup/camera_configuration/sensor_initialization/</guid>
       <description>Sensor initialization helps prevent image degradation and noise. Perform the following steps during startup or after camera connection. A message to expose the camera to more light appears.
 NOTICEImage quality is also influenced by other factors.  Turn on all room lights.
   Open the camera iris to 100%.
@@ -21,10 +21,10 @@ NOTICEImage quality is also influenced by other factors.  Turn on all room l
     
     <item>
       <title>Camera Pan</title>
-      <link>https://naem-j.github.io/web-doc/system_setup/camera_confoguration/camera_pan/</link>
+      <link>https://naem-j.github.io/web-doc/system_setup/camera_configuration/camera_pan/</link>
       <pubDate>Sun, 25 Jul 2021 22:44:37 -0700</pubDate>
       
-      <guid>https://naem-j.github.io/web-doc/system_setup/camera_confoguration/camera_pan/</guid>
+      <guid>https://naem-j.github.io/web-doc/system_setup/camera_configuration/camera_pan/</guid>
       <description>The camera pan function adjusts the alignment of the image without moving the camera or microscope mount. The range of image movement is limited.
 The pan function is useful in the following cases:
  In retina cases, where the wide angle lens is not centered in the optical path. In minimally invasive glaucoma surgery (MIGS) procedures when gonioscopy lens image is not centered in optical path.  Use Ctrl+Up, Ctrl+Right, Ctrl+Down, or Ctrl+Left to electronically move the image.</description>

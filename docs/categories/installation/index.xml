@@ -73,10 +73,10 @@
     
     <item>
       <title>Camera Sensor Initialization</title>
-      <link>https://naem-j.github.io/web-doc/system_setup/camera_confoguration/sensor_initialization/</link>
+      <link>https://naem-j.github.io/web-doc/system_setup/camera_configuration/sensor_initialization/</link>
       <pubDate>Sun, 25 Jul 2021 22:44:37 -0700</pubDate>
       
-      <guid>https://naem-j.github.io/web-doc/system_setup/camera_confoguration/sensor_initialization/</guid>
+      <guid>https://naem-j.github.io/web-doc/system_setup/camera_configuration/sensor_initialization/</guid>
       <description>Sensor initialization helps prevent image degradation and noise. Perform the following steps during startup or after camera connection. A message to expose the camera to more light appears.
 NOTICEImage quality is also influenced by other factors.  Turn on all room lights.
   Open the camera iris to 100%.
@@ -85,10 +85,10 @@ NOTICEImage quality is also influenced by other factors.  Turn on all room l
     
     <item>
       <title>Camera Pan</title>
-      <link>https://naem-j.github.io/web-doc/system_setup/camera_confoguration/camera_pan/</link>
+      <link>https://naem-j.github.io/web-doc/system_setup/camera_configuration/camera_pan/</link>
       <pubDate>Sun, 25 Jul 2021 22:44:37 -0700</pubDate>
       
-      <guid>https://naem-j.github.io/web-doc/system_setup/camera_confoguration/camera_pan/</guid>
+      <guid>https://naem-j.github.io/web-doc/system_setup/camera_configuration/camera_pan/</guid>
       <description>The camera pan function adjusts the alignment of the image without moving the camera or microscope mount. The range of image movement is limited.
 The pan function is useful in the following cases:
  In retina cases, where the wide angle lens is not centered in the optical path. In minimally invasive glaucoma surgery (MIGS) procedures when gonioscopy lens image is not centered in optical path.  Use Ctrl+Up, Ctrl+Right, Ctrl+Down, or Ctrl+Left to electronically move the image.</description>
