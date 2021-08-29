@@ -28,9 +28,9 @@ Belgium
 
 US Pat: www.alconpatents.com
 
-{{< figure src="/images/ce_mark.svg" title="CE Mark" width="50px" >}}
-{{< figure src="/images/md.svg" title="Medical Device Symbol" width="50px" >}}
-{{< figure src="/images/rx_only.svg" title="Prescription Only" width="50px" >}}
+{{< figure src="/images/icon_euk.svg" title="CE Mark" width="50px" >}}
+{{< figure src="/images/icon_md.svg" title="Medical Device Symbol" width="50px" >}}
+{{< figure src="/images/icon_rx_only.svg" title="Prescription Only" width="50px" >}}
 
 Catalog number: 8065000112 Rev. E  
 TVA part number: 9000-0336-A06

@@ -7,8 +7,6 @@ tags: ["service", "support"]
 categories: ["maintenance", "supplemental"]
 ---
 
-![](/images/TS_logo_full.svg)
-
 For product service, please contact Alcon’s Technical Services Department at the number provided below. Operators experiencing problems with the system should refer to the Operating Instructions and Troubleshooting sections of this manual. A problem which persists should be referred to the Alcon Technical Services Department or your local authorized service representative.
 
 For optimum performance, it is the user’s responsibility to schedule preventive maintenance service on the system and its accessories a minimum of one time per year. Additional preventive maintenance may be required based upon system use. Alcon’s Field Service Engineers are trained and equipped to provide the highest quality of workmanship.

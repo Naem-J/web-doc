@@ -15,9 +15,9 @@ categories: ["software"]
 {{< callout num="4" term="Media Management App button" desc="Opens an application to view and edit recorded video and snapshots." >}}  
 {{< callout num="5" term="Eject Drive button" desc="Safely ejects a connected hard drive. NOTE: Only available when an external USB drive is connected." >}}  
 {{< callout num="6" term="Overlay icon" desc="Indicates whether a Constellation™ or Centurion™ system is connected to the system." >}}  
-    {{< figure src="/images/icon_constellation_connected.svg" title="Constellation™ Connected" width="50px" >}}
-    {{< figure src="/images/icon_constellation_disconnected.svg" title="Constellation™ Disconnected" width="50px" >}}
-    {{< figure src="/images/icon_centurion_connected.svg" title="Centurion™ Connected" width="50px" >}}
-    {{< figure src="/images/icon_centurion_disconnected.svg" title="Centurion™ Disconnected" width="50px" >}}
-    
+    {{< figure src="/images/sw_icon_constellation_connected.svg" title="Constellation™ Connected" width="50px" >}}
+    {{< figure src="/images/sw_icon_constellation_disconnected.svg" title="Constellation™ Disconnected" width="50px" >}}
+    {{< figure src="/images/sw_icon_centurion_connected.svg" title="Centurion™ Connected" width="50px" >}}
+    {{< figure src="/images/sw_icon_centurion_disconnected.svg" title="Centurion™ Disconnected" width="50px" >}}
+
 {{< callout num="7" term="Light profile panel" desc="Identifies current imaging mode, light profile, and color channel." >}}  

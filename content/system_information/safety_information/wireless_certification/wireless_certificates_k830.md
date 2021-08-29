@@ -17,7 +17,7 @@ categories: ["introduction", "supplemental"]
 * China CMIIT ID: 2010DJ0355
 * EU:
 
-    {{< figure src="/images/icon_cu.svg" title="EU Certification" width="50px" >}}
+    {{< figure src="/images/icon_eu.svg" title="EU Certification" width="50px" >}}
 
 * Japan:
 
