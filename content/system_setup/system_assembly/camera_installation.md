@@ -11,7 +11,7 @@ categories: ["installation", "pre-op", "hardware"]
 
 Mount the camera to a surgical microscope. Depending on the microscope model, install either a Z-ring or L-ring bracket to the camera lens (see the letters in the image below). The Z-ring bracket is for Alcon or Zeiss&trade; microscopes and the L-ring bracket is for Leica&trade; microscopes. Ensure the entire optical path is clean and free of dust before attaching the camera.
 
-{{< figure src="/images/rings.svg" title="Z-Ring (Left) and L-Ring (Right)" width="200px" >}}
+{{< figure src="/images/camera_mounting_rings.svg" title="Z-Ring (Left) and L-Ring (Right)" width="200px" >}}
 
 ![Camera Installation](/images/camera_installation.svg)
 

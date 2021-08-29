@@ -2,6 +2,14 @@
 <!-- Generator: Adobe Illustrator 25.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 36.5 22.5" style="enable-background:new 0 0 36.5 22.5;" xml:space="preserve">
-<text transform="matrix(1 0 0 1 3.9368 15.1338)" style="font-family:'Arial-BoldMT'; font-size:12px;">GTIN</text>
+<g>
+	<path d="M8.8,12v-1.4h3.7V14c-0.4,0.4-0.9,0.7-1.6,0.9s-1.4,0.4-2.1,0.4c-0.9,0-1.7-0.2-2.3-0.6S5.4,13.8,5,13.1s-0.5-1.5-0.5-2.3
+		c0-0.9,0.2-1.7,0.6-2.4S6,7.2,6.7,6.8C7.3,6.5,8,6.4,8.8,6.4c1.1,0,1.9,0.2,2.5,0.7s1,1.1,1.2,1.9l-1.7,0.3c-0.1-0.4-0.3-0.8-0.7-1
+		S9.3,7.9,8.8,7.9C8,7.9,7.4,8.1,7,8.6s-0.7,1.2-0.7,2.1c0,1,0.2,1.8,0.7,2.3s1,0.8,1.8,0.8c0.4,0,0.7-0.1,1.1-0.2s0.7-0.3,0.9-0.5
+		V12H8.8z"/>
+	<path d="M16.1,15.1V8h-2.5V6.5h6.8V8h-2.5v7.1H16.1z"/>
+	<path d="M21.4,15.1V6.5h1.7v8.6H21.4z"/>
+	<path d="M24.8,15.1V6.5h1.7l3.5,5.7V6.5h1.6v8.6h-1.7l-3.5-5.6v5.6H24.8z"/>
+</g>
 <rect x="0.5" y="0.5" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="35.5" height="21.5"/>
 </svg>

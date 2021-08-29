@@ -9,7 +9,7 @@ categories: ["intra-op", "software"]
 
 To access Color Channel options, click Color Channel. The system previews adjusted color channels in the Color Channel dialog box.
 
-![Color Channels Dialog Box](/images/CC-setttings-eye.png)
+{{< figure src="/images/CC-setttings-eye.png" width="300px" >}}
 
 ## Editing Color Channels
 

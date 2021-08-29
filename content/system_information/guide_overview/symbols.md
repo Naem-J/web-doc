@@ -9,7 +9,7 @@ categories: ["introduction", "supplemental"]
 
 The following symbols and icons are used on the system and in labels:
 
-{{< figure src="/images/icon_on.svg" title="Main power switch - on position" width="50px" >}}
+{{< figure src="/images/icon_on.svg" title="Main power switch - on position" width="5px" >}}
 {{< figure src="/images/icon_off.svg" title="Main power switch - off position" width="50px" >}}
 {{< figure src="/images/icon_alt_current.svg" title="AC current input" width="50px" >}}
 {{< figure src="/images/icon_general_warning.svg" title="Safety Warning" width="50px" >}}

@@ -17,17 +17,17 @@ The default imaging modes include the following:
 | Posterior | Inverted | Constellation™ |
 | Macular | Standard | Constellation™ |
 
-![Locked Imaging Modes Dialog Box](/images/sw_imaging_mode_locked.Exporting)
+![Locked Imaging Modes Dialog Box](/images/sw_imaging_modes_locked.png)
 
 To copy, edit, or delete imaging modes, click **Unlock** and then **Confirm**.
 
-![Unlocked Imaging Modes Dialog Box](/images/sw_imaging_mode_unlocked.png)
+![Unlocked Imaging Modes Dialog Box](/images/sw_imaging_modes_unlocked.png)
 
 ## Copying Imaging Modes
 
 To copy an imaging mode from an existing mode, click **Add**.
 
-![Copying an Imaging Mode](/images/sw_imaging_mode_copy.svg)
+![Copying an Imaging Mode](/images/sw_imaging_modes_copy.svg)
 
 {{< callout num="1" term="Copy From toggle switch" desc="Enables copy options." >}}  
 {{< callout num="2" term="Location buttons" desc="Defines the location of an imaging mode." >}}  
@@ -43,7 +43,7 @@ Alcon recommends contacting Technical Service for support.
     * To edit an imaging mode, select an imaging mode and click **Edit**.
 2. If necessary, enter a new name.
 
-![Custom Imaging Mode](/images/sw_imaging_mode_custom.svg)
+![Custom Imaging Mode](/images/sw_imaging_modes_custom.svg)
 
 {{< callout num="1" term="Name field" desc="Defines an identifiable name for the imaging mode." >}}  
 {{< callout num="2" term="Camera orientation buttons" desc="Sets the camera orientation." >}}  
