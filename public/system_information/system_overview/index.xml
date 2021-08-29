@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>System Overview on NGENUITY™ 3D Visualization System User Guide</title>
+    <link>https://naem-j.github.io/web-doc/system_information/system_overview/</link>
+    <description>Recent content in System Overview on NGENUITY™ 3D Visualization System User Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Jul 2020 22:35:13 -0700</lastBuildDate><atom:link href="https://naem-j.github.io/web-doc/system_information/system_overview/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>System Description</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_overview/system_description/</link>
+      <pubDate>Fri, 10 Jul 2020 22:35:27 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_overview/system_description/</guid>
+      <description>The Alcon NGENUITY™ 3D Visualization System is a 3D stereoscopic, high-definition digital video camera and workstation that operates as an adjunct to a surgical microscope during surgery. The system displays real-time images or images from recordings on a flat-panel, high-definition digital 3D display device, positioned for viewing video. There is no additional light (or energy) delivered by the system.</description>
+    </item>
+    
+    <item>
+      <title>Intended Use</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_overview/intended_use/</link>
+      <pubDate>Fri, 10 Jul 2020 22:35:43 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_overview/intended_use/</guid>
+      <description>The NGENUITY™ 3D Visualization System is intended to aid trained surgeons in visualization during ophthalmic surgery.</description>
+    </item>
+    
+    <item>
+      <title>Indications for Use</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_overview/indications_for_use/</link>
+      <pubDate>Fri, 10 Jul 2020 22:37:01 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_overview/indications_for_use/</guid>
+      <description>The NGENUITY™ 3D Visualization System is indicated for providing magnified stereoscopic images of objects in real time or from recordings. It may also display non-diagnostic information from validated Alcon systems.</description>
+    </item>
+    
+    <item>
+      <title>Contraindications</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_overview/contraindications/</link>
+      <pubDate>Fri, 10 Jul 2020 22:36:22 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_overview/contraindications/</guid>
+      <description>There are no contraindications at this time.</description>
+    </item>
+    
+    <item>
+      <title>Clinical Benefits</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_overview/clinical_benefits/</link>
+      <pubDate>Fri, 10 Jul 2020 22:37:22 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_overview/clinical_benefits/</guid>
+      <description>The intended clinical benefit of the NGENUITY™ 3D Visualization System is to allow users to visualize ophthalmic surgery by looking at a display screen rather than in standard microscope oculars for improved ergonomic benefit.</description>
+    </item>
+    
+    <item>
+      <title>Environmental Considerations</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_overview/environmental_considerations/</link>
+      <pubDate>Fri, 10 Jul 2020 22:37:37 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_overview/environmental_considerations/</guid>
+      <description>Keep the system dry and protect it from harmful ingress of water. The camera includes a rating of IPX1: protection against vertically falling drops of water. See Specifications for temperature and humidity considerations.
+WARNINGTo prevent fire or shock hazard, do not expose system to rain or moisture. This system is not suitable for use in the presence of flammable anesthetics mixture with air or with oxygen. </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>flashing on NGENUITY™ 3D Visualization System User Guide</title>
+    <link>https://naem-j.github.io/web-doc/tags/flashing/</link>
+    <description>Recent content in flashing on NGENUITY™ 3D Visualization System User Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jul 2020 23:29:38 -0700</lastBuildDate><atom:link href="https://naem-j.github.io/web-doc/tags/flashing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>K830 Keyboard Recharging</title>
+      <link>https://naem-j.github.io/web-doc/maintenance/basic/keyboard_recharge/</link>
+      <pubDate>Wed, 15 Jul 2020 23:29:38 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/maintenance/basic/keyboard_recharge/</guid>
+      <description>To charge the K830 keyboard, use the micro USB cable to connect the keyboard to a USB connector on the cart. The battery indicator blinks green while charging. Charge it until the indicator light stops blinking. The keyboard can be used while charging. If the battery power is low, the indicator blinks red and the keyboard back light turns off.</description>
+    </item>
+    
+  </channel>
+</rss>

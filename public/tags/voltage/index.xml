@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>voltage on NGENUITY™ 3D Visualization System User Guide</title>
+    <link>https://naem-j.github.io/web-doc/tags/voltage/</link>
+    <description>Recent content in voltage on NGENUITY™ 3D Visualization System User Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Jul 2021 04:28:49 -0700</lastBuildDate><atom:link href="https://naem-j.github.io/web-doc/tags/voltage/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>General Information</title>
+      <link>https://naem-j.github.io/web-doc/system_information/guide_overview/front_matter/</link>
+      <pubDate>Sun, 25 Jul 2021 04:28:49 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/guide_overview/front_matter/</guid>
+      <description>Manufacturer   Manufacturer:
+Alcon Laboratories, Inc.
+6201 South Freeway
+Fort Worth, TX 76134-2099, USA
+Made in the USA with global materials
+Produced By:
+Alcon Research, LLC.
+15800 Alcon Parkway
+Irvine, CA 92618-3818, USA
+ European Representative   Alcon Laboratories Belgium
+Lichterveld 3
+2870 Puurs-Sint-Amands
+Belgium
+US Pat: www.alconpatents.com
+ CE Mark    Medical Device Symbol    Prescription Only   Catalog number: 8065000112 Rev.</description>
+    </item>
+    
+    <item>
+      <title>Symbols</title>
+      <link>https://naem-j.github.io/web-doc/system_information/guide_overview/symbols/</link>
+      <pubDate>Fri, 10 Jul 2020 22:34:49 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/guide_overview/symbols/</guid>
+      <description>The following symbols and icons are used on the system and in labels:
+ Main power switch - on position    Main power switch - off position    AC current input    Safety Warning    Risk of Electric Shock    Manufacturer    Intertek NRTL mark    European Conformity mark    Authorized representative in the European community    Equipment should not be disposed of in domestic household waste.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pre-op on NGENUITY™ 3D Visualization System User Guide</title>
+    <link>https://naem-j.github.io/web-doc/categories/pre-op/</link>
+    <description>Recent content in pre-op on NGENUITY™ 3D Visualization System User Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Jul 2021 22:44:37 -0700</lastBuildDate><atom:link href="https://naem-j.github.io/web-doc/categories/pre-op/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Camera Installation</title>
+      <link>https://naem-j.github.io/web-doc/system_setup/system_assembly/camera_installation/</link>
+      <pubDate>Fri, 10 Jul 2020 21:06:52 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_setup/system_assembly/camera_installation/</guid>
+      <description>WARNINGIn case of emergency, keep the microscope oculars and mounting accessories in the cart top drawer. If there are any concerns regarding the continued safe use of the system, consider returning to the oculars.Mount the camera to a surgical microscope. Depending on the microscope model, install either a Z-ring or L-ring bracket to the camera lens (see the letters in the image below). The Z-ring bracket is for Alcon or Zeiss™ microscopes and the L-ring bracket is for Leica™ microscopes.</description>
+    </item>
+    
+    <item>
+      <title>Constellation™ Connection</title>
+      <link>https://naem-j.github.io/web-doc/system_setup/system_assembly/datafusion_connections/constellation_connection/</link>
+      <pubDate>Fri, 10 Jul 2020 22:05:57 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_setup/system_assembly/datafusion_connections/constellation_connection/</guid>
+      <description>WARNINGOnly the Constellation&amp;trade; Vision System should be connected to an Ethernet port on the embedded processing unit (EPU) during normal system operation. The other Ethernet ports are for maintenance purposes only.Connect the Ethernet cable from the system to the Constellation™ Ethernet connector and setup DataFusion settings on the system.</description>
+    </item>
+    
+    <item>
+      <title>Centurion™ Connection</title>
+      <link>https://naem-j.github.io/web-doc/system_setup/system_assembly/datafusion_connections/centurion_connection/</link>
+      <pubDate>Fri, 10 Jul 2020 22:06:22 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_setup/system_assembly/datafusion_connections/centurion_connection/</guid>
+      <description>Enable wireless communication on the Centurion™ and setup DataFusion settings on the system</description>
+    </item>
+    
+    <item>
+      <title>ORA SYSTEM™ Connection</title>
+      <link>https://naem-j.github.io/web-doc/system_setup/system_assembly/datafusion_connections/ora_system_connection/</link>
+      <pubDate>Fri, 10 Jul 2020 22:06:42 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_setup/system_assembly/datafusion_connections/ora_system_connection/</guid>
+      <description>Connect the provided HDMI cable to the HDMI output connector on the ORA SYSTEM™.</description>
+    </item>
+    
+    <item>
+      <title>Secondary Display (Optional)</title>
+      <link>https://naem-j.github.io/web-doc/system_setup/system_assembly/secondary_display/</link>
+      <pubDate>Fri, 10 Jul 2020 22:09:17 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_setup/system_assembly/secondary_display/</guid>
+      <description>To connect a secondary display, connect the it to the HDMI output connector on the system front panel.</description>
+    </item>
+    
+    <item>
+      <title>Startup Procedure</title>
+      <link>https://naem-j.github.io/web-doc/system_setup/startup_procedure/</link>
+      <pubDate>Fri, 10 Jul 2020 22:15:33 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_setup/startup_procedure/</guid>
+      <description>WARNING System isolation from mains is achieved through detachment of power cord. Turn OFF the power switch and unplug the power cord from wall outlet to achieve isolation from mains. Do not bypass the isolation transformer and connect any of the NGENUITY™ components directly to a wall outlet. To avoid risk of electric shock, this equipment must only be connected to a supply mains with protective earth (ground). The system should be connected to an uninterruptible power source when loss of power would result in an unacceptable risk.</description>
+    </item>
+    
+    <item>
+      <title>System Movement</title>
+      <link>https://naem-j.github.io/web-doc/system_setup/system_position/system_movement/</link>
+      <pubDate>Sat, 11 Jul 2020 23:12:26 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_setup/system_position/system_movement/</guid>
+      <description>CAUTIONDo not push or pull unit by the display or any cable. The unit should be pulled and not pushed, especially over elevator and door thresholds.To move the system around the room, unlock the casters. Each castor on the cart has three modes, controlled by the brake pedal. Set each castor in total lock mode while the system is being used.
+ The casters do not rotate    Unlocked    Total Lock   </description>
+    </item>
+    
+    <item>
+      <title>Display Articulation</title>
+      <link>https://naem-j.github.io/web-doc/system_setup/system_position/display_articulation/</link>
+      <pubDate>Sun, 25 Jul 2021 22:15:33 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_setup/system_position/display_articulation/</guid>
+      <description>The display moves up or down the mast, rotates side to side, and tilts back or forth. Only grasp the bottom or sides of the display while adjusting it. Avoid putting stress on the top of the display.
+NOTICEIf necessary, loosen the adjustment knobs on the display mounting bracket to adjust the tilt and tighten them to secure it. Do not remove the adjustment knobs.</description>
+    </item>
+    
+    <item>
+      <title>View Optimization</title>
+      <link>https://naem-j.github.io/web-doc/system_setup/system_position/view_optimization/</link>
+      <pubDate>Sun, 25 Jul 2021 22:15:33 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_setup/system_position/view_optimization/</guid>
+      <description>For the best 3D effect, place the display next to the patient bed, between 4′ to 6′ (1.2 m to 1.8 m) away from the user. Depending on the display, align either the bottom third or middle of the display perpendicular with the line of sight of the seated user. If necessary, also ensure other viewers have a satisfactory view.</description>
+    </item>
+    
+    <item>
+      <title>Camera Sensor Initialization</title>
+      <link>https://naem-j.github.io/web-doc/system_setup/camera_confoguration/sensor_initialization/</link>
+      <pubDate>Sun, 25 Jul 2021 22:44:37 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_setup/camera_confoguration/sensor_initialization/</guid>
+      <description>Sensor initialization helps prevent image degradation and noise. Perform the following steps during startup or after camera connection. A message to expose the camera to more light appears.
+NOTICEImage quality is also influenced by other factors.  Turn on all room lights.
+  Open the camera iris to 100%.
+  Position the white balance card at 90 degrees under the microscope objective lens. The message disappears within 5 seconds.</description>
+    </item>
+    
+    <item>
+      <title>Camera Pan</title>
+      <link>https://naem-j.github.io/web-doc/system_setup/camera_confoguration/camera_pan/</link>
+      <pubDate>Sun, 25 Jul 2021 22:44:37 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_setup/camera_confoguration/camera_pan/</guid>
+      <description>The camera pan function adjusts the alignment of the image without moving the camera or microscope mount. The range of image movement is limited.
+The pan function is useful in the following cases:
+ In retina cases, where the wide angle lens is not centered in the optical path. In minimally invasive glaucoma surgery (MIGS) procedures when gonioscopy lens image is not centered in optical path.  Use Ctrl+Up, Ctrl+Right, Ctrl+Down, or Ctrl+Left to electronically move the image.</description>
+    </item>
+    
+    <item>
+      <title>White Balance</title>
+      <link>https://naem-j.github.io/web-doc/system_setup/white_balance/</link>
+      <pubDate>Sun, 25 Jul 2021 22:44:37 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_setup/white_balance/</guid>
+      <description>To calibrate light settings, verify the light temperature and perform the white balance procedure (see Light Profile Settings). Before setting white balance, perform the following checks:
+ Set the camera iris slider to normal working conditions for the user. Alcon recommends 30%. Set the microscope to maximum zoom. Disable any red reflex settings. Remove all extraneous devices (for example, beam splitters or invertors). Disable any unique microscope filtration or lens settings (for example, laser filters).</description>
+    </item>
+    
+    <item>
+      <title>Setup Recommendations</title>
+      <link>https://naem-j.github.io/web-doc/system_setup/setup_recommendations/</link>
+      <pubDate>Sat, 11 Jul 2020 23:13:00 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_setup/setup_recommendations/</guid>
+      <description>To extend the depth of field and improve performance at high magnification, follow these tips:
+ Parfocalize visualization (microscope, non-contact, contact) to focus the surgical space. Zoom in to fill the display to maximize the quality of surgical view.  </description>
+    </item>
+    
+    <item>
+      <title>Software Overview</title>
+      <link>https://naem-j.github.io/web-doc/operation/software_overview/</link>
+      <pubDate>Sat, 11 Jul 2020 23:21:37 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/operation/software_overview/</guid>
+      <description>To navigate the system interface, use the touchpad and keyboard to select items or enter text. To start operating, select a doctor profile and patient profile.</description>
+    </item>
+    
+    <item>
+      <title>Doctor Profile Management</title>
+      <link>https://naem-j.github.io/web-doc/operation/doctor_management/</link>
+      <pubDate>Sat, 11 Jul 2020 23:22:45 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/operation/doctor_management/</guid>
+      <description>Doctor profiles save customized user settings for optimal visualization. Manage the profiles on the system from the Home panel.
+1 Doctor Defaults button &amp;ndash; Saves current doctor settings as the default values or restores doctor settings to the saved default settings.  2 Doctor Export button &amp;ndash; Exports the current doctor profile to a connected USB drive. This button is only available when an external USB drive is connected.  3 Add Doctor button &amp;ndash; Creates a new doctor profile.</description>
+    </item>
+    
+    <item>
+      <title>Add a Doctor Profile</title>
+      <link>https://naem-j.github.io/web-doc/operation/doctor_management/add_doctor/</link>
+      <pubDate>Sat, 11 Jul 2020 23:23:03 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/operation/doctor_management/add_doctor/</guid>
+      <description>To create a new doctor profile, perform the following:
+ In the Home panel, select the doctor Add button. The New Doctor dialog box opens. In the Name field, enter a profile name. To copy settings from another profile, perform the following:  Click the Copy Settings From toggle switch. Click Local to copy a profile stored on the system or click USB to copy a profile from a connected USB drive.</description>
+    </item>
+    
+    <item>
+      <title>Delete Doctor Profile</title>
+      <link>https://naem-j.github.io/web-doc/operation/doctor_management/delete_doctor/</link>
+      <pubDate>Sat, 11 Jul 2020 23:23:13 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/operation/doctor_management/delete_doctor/</guid>
+      <description> In the Home panel, select a doctor profile. Click the doctor Delete button. Click Confirm.  </description>
+    </item>
+    
+    <item>
+      <title>Set Doctor Profile Settings</title>
+      <link>https://naem-j.github.io/web-doc/operation/doctor_management/set_doctor_settings/</link>
+      <pubDate>Sat, 11 Jul 2020 23:23:29 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/operation/doctor_management/set_doctor_settings/</guid>
+      <description> In the Home panel, select a doctor profile. Click Doctor Defaults. Perform one of the following:  Click Save all to save the current settings as the profile default settings. Click Restore all to set the current settings to the saved profile default settings.    </description>
+    </item>
+    
+    <item>
+      <title>Export Doctor Profile</title>
+      <link>https://naem-j.github.io/web-doc/operation/doctor_management/export_doctor/</link>
+      <pubDate>Sat, 11 Jul 2020 23:23:35 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/operation/doctor_management/export_doctor/</guid>
+      <description> Connect a USB drive to a USB connector. In the Home panel, select a doctor profile. Click Export Doctor.  </description>
+    </item>
+    
+    <item>
+      <title>Patient Profile Management</title>
+      <link>https://naem-j.github.io/web-doc/operation/patient_management/</link>
+      <pubDate>Sat, 11 Jul 2020 23:23:56 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/operation/patient_management/</guid>
+      <description>Patient profiles store basic patient information. Manage patient profiles in the Home panel.
+1 Add Patient button &amp;ndash; Creates a new patient profile.  2 Delete Patient button &amp;ndash; Deletes the selected patient profile.  3 Patient Selection drop-down menu &amp;ndash; Sets settings and patient information according to the selected patient profile.  Topics in this section include the following:</description>
+    </item>
+    
+    <item>
+      <title>Add Patient Profile</title>
+      <link>https://naem-j.github.io/web-doc/operation/patient_management/add_patient/</link>
+      <pubDate>Sat, 11 Jul 2020 23:24:17 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/operation/patient_management/add_patient/</guid>
+      <description>In the Home panel, select the patient Add button. The Patient Information dialog box opens. Enter a first and last name. Select one of the following:  OD – right eye OS – left eye   To add a date of birth, patient ID name, or procedure, click Optional Data. a. In the Date of Birth field, enter a year, month, and day. b. In the ID field, enter a unique identification code.</description>
+    </item>
+    
+    <item>
+      <title>Delete Patient Profile</title>
+      <link>https://naem-j.github.io/web-doc/operation/patient_management/delete_patient/</link>
+      <pubDate>Sat, 11 Jul 2020 23:24:23 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/operation/patient_management/delete_patient/</guid>
+      <description> In the Home panel, select a patient profile. Click the patient Delete button. Click Confirm.  </description>
+    </item>
+    
+  </channel>
+</rss>

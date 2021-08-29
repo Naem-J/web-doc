@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Safety Information on NGENUITY™ 3D Visualization System User Guide</title>
+    <link>https://naem-j.github.io/web-doc/system_information/safety_information/</link>
+    <description>Recent content in Safety Information on NGENUITY™ 3D Visualization System User Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Jul 2020 22:35:13 -0700</lastBuildDate><atom:link href="https://naem-j.github.io/web-doc/system_information/safety_information/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>General Safety Information</title>
+      <link>https://naem-j.github.io/web-doc/system_information/safety_information/safety_information/</link>
+      <pubDate>Fri, 10 Jul 2020 22:37:54 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/safety_information/safety_information/</guid>
+      <description>In addition to reading this user guide, all users must be trained by an Alcon employee or a trainer that has been designated by Alcon. The trainee must be comfortable working as an interface between the doctor and the NGENUITY™ 3D Visualization System, and the trainee must be familiar with pre-operative room and operating room protocols.
+For customers in the U.S.A.
+Federal Law restricts this device to sale by or on the order of a licensed medical practitioner.</description>
+    </item>
+    
+    <item>
+      <title>General Warnings and Precautions</title>
+      <link>https://naem-j.github.io/web-doc/system_information/safety_information/general_warnings/</link>
+      <pubDate>Fri, 10 Jul 2020 22:38:19 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/safety_information/general_warnings/</guid>
+      <description>Pay close attention to warnings and cautions. A warning statement is written to protect individuals from bodily harm. A caution statement is written to protect the instrument from damage. This section is for general system warnings and precautions only.
+WARNING In case of a deficiency, do not use the system; call Alcon Technical Services. Use of accessories other than those provided may affect system performance and create potential hazards. If it is determined that an accessory not provided by Alcon has contributed to the malfunction of the equipment during the warranty period, service will be provided at prevailing hourly rates.</description>
+    </item>
+    
+    <item>
+      <title>Label Locations</title>
+      <link>https://naem-j.github.io/web-doc/system_information/safety_information/label_locations/</link>
+      <pubDate>Fri, 10 Jul 2020 22:43:42 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/safety_information/label_locations/</guid>
+      <description>Note the safety and system label locations. Refer to the system for specific information.
+1 Moving parts warning label &amp;ndash; Includes a warning related to a protective guard.  2 Identifies compatible connectors. &amp;ndash; The location and connector type varies with the display model.  3 Oculars storage warning label &amp;ndash; Includes information about storing the microscope oculars.  4 Product label &amp;ndash; Includes information about the system.  5 Wireless label &amp;ndash; Indicates wireless capabilities.</description>
+    </item>
+    
+    <item>
+      <title>Serious incident Reporting</title>
+      <link>https://naem-j.github.io/web-doc/system_information/safety_information/serious_incident_reporting/</link>
+      <pubDate>Fri, 10 Jul 2020 22:44:00 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/safety_information/serious_incident_reporting/</guid>
+      <description>Any serious incident related to the use of this medical device should be reported to Alcon Laboratories, Inc.
+  By phone: In USA – (800) 757-9780
+In EU/International – Contact the local country office or your Alcon distributor.
+  By website: http://www.alcon.com/contact-us/
+  By email: qa.complaints@alcon.com
+  These serious incidents should also be reported to the competent authority for medical devices of your Member State.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EU on NGENUITY™ 3D Visualization System User Guide</title>
+    <link>https://naem-j.github.io/web-doc/tags/eu/</link>
+    <description>Recent content in EU on NGENUITY™ 3D Visualization System User Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Jul 2020 00:03:28 -0700</lastBuildDate><atom:link href="https://naem-j.github.io/web-doc/tags/eu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Disposal</title>
+      <link>https://naem-j.github.io/web-doc/additional_information/disposal/</link>
+      <pubDate>Thu, 16 Jul 2020 00:03:28 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/additional_information/disposal/</guid>
+      <description>This product complies with the WEEE Directive (2002/96/EC) marking requirement. Do not discard this electronic product in domestic household waste. This is an explanation of how to dispose of this product based on Waste Electrical and Electronic Equipment (WEEE), Directive 2002/96/EC. This directive is only valid in the EU. With reference to the equipment types in the WEEE directive Annex 1, this product is classified as a “Medical Device” product. Do not dispose in domestic household waste.</description>
+    </item>
+    
+    <item>
+      <title>EU - RED Directive 2014/53/EU</title>
+      <link>https://naem-j.github.io/web-doc/system_information/safety_information/wireless_certification/red_directive/</link>
+      <pubDate>Fri, 10 Jul 2020 22:41:07 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/safety_information/wireless_certification/red_directive/</guid>
+      <description>This device complies with the essential requirements of the Radio Equipment Directive 2014/53/ EU.
+CAUTIONThe radio equipment is intended to be used in all EU and AFTA countries. Outdoor use may be restricted to certain frequencies and/or may require a license for operation. Contact local Authority for procedure to follow.</description>
+    </item>
+    
+    <item>
+      <title>Serious incident Reporting</title>
+      <link>https://naem-j.github.io/web-doc/system_information/safety_information/serious_incident_reporting/</link>
+      <pubDate>Fri, 10 Jul 2020 22:44:00 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/safety_information/serious_incident_reporting/</guid>
+      <description>Any serious incident related to the use of this medical device should be reported to Alcon Laboratories, Inc.
+  By phone: In USA – (800) 757-9780
+In EU/International – Contact the local country office or your Alcon distributor.
+  By website: http://www.alcon.com/contact-us/
+  By email: qa.complaints@alcon.com
+  These serious incidents should also be reported to the competent authority for medical devices of your Member State.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>receptacle on NGENUITY™ 3D Visualization System User Guide</title>
+    <link>https://naem-j.github.io/web-doc/tags/receptacle/</link>
+    <description>Recent content in receptacle on NGENUITY™ 3D Visualization System User Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jul 2020 23:24:29 -0700</lastBuildDate><atom:link href="https://naem-j.github.io/web-doc/tags/receptacle/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Startup Procedure</title>
+      <link>https://naem-j.github.io/web-doc/system_setup/startup_procedure/</link>
+      <pubDate>Fri, 10 Jul 2020 22:15:33 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_setup/startup_procedure/</guid>
+      <description>WARNING System isolation from mains is achieved through detachment of power cord. Turn OFF the power switch and unplug the power cord from wall outlet to achieve isolation from mains. Do not bypass the isolation transformer and connect any of the NGENUITY™ components directly to a wall outlet. To avoid risk of electric shock, this equipment must only be connected to a supply mains with protective earth (ground). The system should be connected to an uninterruptible power source when loss of power would result in an unacceptable risk.</description>
+    </item>
+    
+    <item>
+      <title>Storage and Transportation</title>
+      <link>https://naem-j.github.io/web-doc/maintenance/storage/</link>
+      <pubDate>Wed, 15 Jul 2020 23:24:29 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/maintenance/storage/</guid>
+      <description>To store or transport the system within the facility, perform the following:
+ Route the camera cable.
+a. Disconnect the camera cable from the camera.
+b. Wrap camera cable around the camera cable coil. Route the power cable.
+a. Disconnect the power cable from the outlet.
+b. Wrap power cable around the power cable coil. If the system includes a connected DataFusion device, disconnect the cable on the other device.</description>
+    </item>
+    
+  </channel>
+</rss>

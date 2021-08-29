@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>imaging mode on NGENUITY™ 3D Visualization System User Guide</title>
+    <link>https://naem-j.github.io/web-doc/tags/imaging-mode/</link>
+    <description>Recent content in imaging mode on NGENUITY™ 3D Visualization System User Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Jul 2021 23:44:31 -0700</lastBuildDate><atom:link href="https://naem-j.github.io/web-doc/tags/imaging-mode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Imaging Mode Management</title>
+      <link>https://naem-j.github.io/web-doc/operation/settings/imaging_mode_management/</link>
+      <pubDate>Sun, 25 Jul 2021 23:44:31 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/operation/settings/imaging_mode_management/</guid>
+      <description>Imaging modes are a core visualization baseline for routine cases. To access Imaging Mode options, click Imaging Mode. If operating with different illumination sources or optical systems that require inverted camera orientation, Alcon recommends creating a custom imaging mode to accommodate individual surgical workflows.
+The default imaging modes include the following:
+   Imaging Mode Camera Orientation Light Profile     Anterior Standard Halogen   Posterior Inverted Constellation™   Macular Standard Constellation™    To copy, edit, or delete imaging modes, click Unlock and then Confirm.</description>
+    </item>
+    
+  </channel>
+</rss>

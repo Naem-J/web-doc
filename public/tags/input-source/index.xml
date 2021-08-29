@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>input source on NGENUITY™ 3D Visualization System User Guide</title>
+    <link>https://naem-j.github.io/web-doc/tags/input-source/</link>
+    <description>Recent content in input source on NGENUITY™ 3D Visualization System User Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Jul 2020 23:47:35 -0700</lastBuildDate><atom:link href="https://naem-j.github.io/web-doc/tags/input-source/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Input Source</title>
+      <link>https://naem-j.github.io/web-doc/operation/settings/system_settings/input_source/</link>
+      <pubDate>Sat, 11 Jul 2020 23:47:35 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/operation/settings/system_settings/input_source/</guid>
+      <description>The input source controls which port is displayed in the secondary view. To set the secondary input source, click Input Source.
+NOTICENo other sources are available for systems with a connected ORA SYSTEM&amp;trade;.In the View 2 panel, select one of the following:
+ HDMI – Displays the input source from a connected ORA SYSTEM™. Composite – Displays the input source connected to the front panel composite connector.</description>
+    </item>
+    
+  </channel>
+</rss>

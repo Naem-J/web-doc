@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>constellation on NGENUITY™ 3D Visualization System User Guide</title>
+    <link>https://naem-j.github.io/web-doc/tags/constellation/</link>
+    <description>Recent content in constellation on NGENUITY™ 3D Visualization System User Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Jul 2021 00:02:58 -0700</lastBuildDate><atom:link href="https://naem-j.github.io/web-doc/tags/constellation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Terms</title>
+      <link>https://naem-j.github.io/web-doc/system_information/guide_overview/terms/</link>
+      <pubDate>Fri, 10 Jul 2020 22:34:17 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/guide_overview/terms/</guid>
+      <description>The following terms are used in this guide or in the application:
+ System - The NGENUITY™ 3D Visualization System, including the cart, display, and camera. Constellation™ - The Constellation™ Vision System Centurion™ - The Centurion™ Vision System K600 keyboard - The Logitech1 K600 wireless keyboard (select countries only) K830 keyboard - The Logitech1 K830 wireless keyboard ORA SYSTEM™ - The ORA SYSTEM™ with VerifEye™ + Technology    Trademarks are property of their respective owners.</description>
+    </item>
+    
+    <item>
+      <title>Datafusion</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_components/datafusion/</link>
+      <pubDate>Fri, 10 Jul 2020 22:46:08 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_components/datafusion/</guid>
+      <description>The Constellation™, Centurion™, and ORA SYSTEM™ provide additional patient and surgical operation information to display on the system. The Constellation™ and Centurion™ systems displays the information on the surgical screen while the ORA SYSTEM™ displays the information in PiP or split screen layouts. The Constellation™ also controls basic system functions. The ORA SYSTEM™ dynamic reticle displays on the live image (activate on the ORA SYSTEM™).</description>
+    </item>
+    
+    <item>
+      <title>Constellation™ Connection</title>
+      <link>https://naem-j.github.io/web-doc/system_setup/system_assembly/datafusion_connections/constellation_connection/</link>
+      <pubDate>Fri, 10 Jul 2020 22:05:57 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_setup/system_assembly/datafusion_connections/constellation_connection/</guid>
+      <description>WARNINGOnly the Constellation&amp;trade; Vision System should be connected to an Ethernet port on the embedded processing unit (EPU) during normal system operation. The other Ethernet ports are for maintenance purposes only.Connect the Ethernet cable from the system to the Constellation™ Ethernet connector and setup DataFusion settings on the system.</description>
+    </item>
+    
+    <item>
+      <title>Constellation™ settings</title>
+      <link>https://naem-j.github.io/web-doc/operation/settings/constellation_settings/</link>
+      <pubDate>Sat, 11 Jul 2020 23:44:00 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/operation/settings/constellation_settings/</guid>
+      <description>To access the Constellation™ Overlay options, click Constellation™.
+1 Opacity slider &amp;ndash; Lower the slider to make the overlay text more transparent or raise the slider to make the overlay text less transparent.  2 Show on-screen toggle switch &amp;ndash; Enables Constellation™ data to show on the display.  3 Imaging Mode Linking toggle switch &amp;ndash; Automatically switches system imaging modes when a Constellation™ surgical step is changed. The default imaging modes are used for linking and are created if they do not already exist.</description>
+    </item>
+    
+    <item>
+      <title>Constellation™ Control</title>
+      <link>https://naem-j.github.io/web-doc/additional_information/constellation_control/</link>
+      <pubDate>Sun, 25 Jul 2021 00:02:58 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/additional_information/constellation_control/</guid>
+      <description>A connected Constellation™ can provide basic system commands to the system. Refer to the Constellation™ documentation for details on the Constellation™ interface.
+NOTICEChanges to the light profile and color channel affect the selected imaging mode.During Constellation™ footswitch navigation, it is not possible to navigate backwards after selecting a submenu. Instead, close and open the menu again.</description>
+    </item>
+    
+    <item>
+      <title>DataFusion</title>
+      <link>https://naem-j.github.io/web-doc/operation/settings/system_settings/datafusion/</link>
+      <pubDate>Sat, 11 Jul 2020 23:47:25 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/operation/settings/system_settings/datafusion/</guid>
+      <description>The DataFusion settings determine which device is connected to the system. To access DataFusion options, click DataFusion. The system can only enable one device at a time.
+1 Constellation™ toggle switch &amp;ndash; Enables Constellation™ connection.  2 Centurion™ toggle switch &amp;ndash; Enables Centurion™ connection.  3 Edit button &amp;ndash; Opens a dialog box to connect to a specific device.  To connect to a Centurion™, perform the following:
+  Click Edit.</description>
+    </item>
+    
+  </channel>
+</rss>

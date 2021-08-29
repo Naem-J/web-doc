@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>channel on NGENUITY™ 3D Visualization System User Guide</title>
+    <link>https://naem-j.github.io/web-doc/tags/channel/</link>
+    <description>Recent content in channel on NGENUITY™ 3D Visualization System User Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Jul 2020 23:43:44 -0700</lastBuildDate><atom:link href="https://naem-j.github.io/web-doc/tags/channel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quick Access Bar</title>
+      <link>https://naem-j.github.io/web-doc/operation/live_case/quick_access_bar/</link>
+      <pubDate>Sat, 11 Jul 2020 23:43:20 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/operation/live_case/quick_access_bar/</guid>
+      <description>The Quick Access Bar contains specified buttons for display options. Click the buttons to quickly change settings or, if available, click the drop-down menu below buttons to select a specific option.
+To change the available buttons or the options available for a button, see Settings.
+Use the Quick Access Bar to change the following display modes and settings:
+1 Swap layout &amp;ndash; Changes the number of video inputs displayed on the Case screen (1 or 2).</description>
+    </item>
+    
+    <item>
+      <title>Settings</title>
+      <link>https://naem-j.github.io/web-doc/operation/settings/</link>
+      <pubDate>Sat, 11 Jul 2020 23:43:44 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/operation/settings/</guid>
+      <description>To adjust image settings, click Settings.
+1 Vit System button &amp;ndash; Includes overlay options and imaging mode linking.  2 Phaco System button &amp;ndash; Includes overlay options.  3 Screen Layout button &amp;ndash; Adjusts the display layout and what features are included during surgical cases.  4 Recording button &amp;ndash; Sets video parameters.  5 Color Channels button &amp;ndash; Manages color emphasis.  6 Light Profiles button &amp;ndash; Adjusts colors depending on the light source.</description>
+    </item>
+    
+  </channel>
+</rss>

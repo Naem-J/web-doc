@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mouse on NGENUITY™ 3D Visualization System User Guide</title>
+    <link>https://naem-j.github.io/web-doc/tags/mouse/</link>
+    <description>Recent content in mouse on NGENUITY™ 3D Visualization System User Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Jul 2020 22:45:58 -0700</lastBuildDate><atom:link href="https://naem-j.github.io/web-doc/tags/mouse/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Keyboard and Mouse</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_components/keyboard_and_mouse/</link>
+      <pubDate>Fri, 10 Jul 2020 22:45:58 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_components/keyboard_and_mouse/</guid>
+      <description>The system includes both a wired and a wireless keyboard with an integrated touchpad. The wireless keyboard is rechargeable and the battery indicator displays the charge level while the keyboard is on.
+1 Power indicator &amp;ndash; Lights according to the battery status   Blinking green - The battery is charging. Solid green – The battery has adequate charge. Blinking red – The battery power is low. Recharge the battery.  2 USB connector (rear) &amp;ndash; Connects the keyboard to a power source to recharge the batteries.</description>
+    </item>
+    
+  </channel>
+</rss>

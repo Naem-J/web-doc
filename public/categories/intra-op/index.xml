@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>intra-op on NGENUITY™ 3D Visualization System User Guide</title>
+    <link>https://naem-j.github.io/web-doc/categories/intra-op/</link>
+    <description>Recent content in intra-op on NGENUITY™ 3D Visualization System User Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Jul 2021 23:44:31 -0700</lastBuildDate><atom:link href="https://naem-j.github.io/web-doc/categories/intra-op/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Navigation</title>
+      <link>https://naem-j.github.io/web-doc/operation/software_overview/navigation/</link>
+      <pubDate>Sat, 11 Jul 2020 23:21:59 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/operation/software_overview/navigation/</guid>
+      <description>The following icons appear throughout the interface.
+ Indicates the touchpad cursor location.    Saves the pending changes and closes the dialog box. Switching to a different setting panel saves any pending changes.    Closes the dialog box and does not save pending changes.    Opens another dialog box to change additional settings.    Saves settings to a connected USB drive.    Opens the next screen or dialog box.</description>
+    </item>
+    
+    <item>
+      <title>Live Case</title>
+      <link>https://naem-j.github.io/web-doc/operation/live_case/</link>
+      <pubDate>Sat, 11 Jul 2020 23:24:51 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/operation/live_case/</guid>
+      <description>In the Home panel, click Start Case.
+WARNINGDo not connect or disconnect any displays to the system during live surgery. Visualization is interrupted while the system reinitializes the display.Topics in this section include the following:</description>
+    </item>
+    
+    <item>
+      <title>Procedure Screen Layout</title>
+      <link>https://naem-j.github.io/web-doc/operation/live_case/procedure_layout/</link>
+      <pubDate>Sat, 11 Jul 2020 23:25:05 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/operation/live_case/procedure_layout/</guid>
+      <description>1 Case timer &amp;ndash; Displays the duration of the surgical case.  2 Record video button &amp;ndash; Starts and stops recording video of the screen. A red dot appears next to the case when a case is being recorded.  3 Snapshot button &amp;ndash; Takes a picture of the screen.  4 Information panel &amp;ndash; Displays basic information to identify the current patient and case.  5 Quick Access Bar &amp;ndash; Includes buttons to quickly change various display settings.</description>
+    </item>
+    
+    <item>
+      <title>Recordings</title>
+      <link>https://naem-j.github.io/web-doc/operation/live_case/recordings/</link>
+      <pubDate>Sat, 11 Jul 2020 23:43:13 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/operation/live_case/recordings/</guid>
+      <description>Recordings save video from the camera. To save overlay information, enable the applicable DataFusion feature. Overlay information includes patient and case information from the system, or other data from connected systems.</description>
+    </item>
+    
+    <item>
+      <title>Quick Access Bar</title>
+      <link>https://naem-j.github.io/web-doc/operation/live_case/quick_access_bar/</link>
+      <pubDate>Sat, 11 Jul 2020 23:43:20 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/operation/live_case/quick_access_bar/</guid>
+      <description>The Quick Access Bar contains specified buttons for display options. Click the buttons to quickly change settings or, if available, click the drop-down menu below buttons to select a specific option.
+To change the available buttons or the options available for a button, see Settings.
+Use the Quick Access Bar to change the following display modes and settings:
+1 Swap layout &amp;ndash; Changes the number of video inputs displayed on the Case screen (1 or 2).</description>
+    </item>
+    
+    <item>
+      <title>End Case</title>
+      <link>https://naem-j.github.io/web-doc/operation/end_case/</link>
+      <pubDate>Sat, 11 Jul 2020 23:43:31 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/operation/end_case/</guid>
+      <description>When the case is complete, click End Case. Recordings stop and the following prompts appear:
+ If any imaging mode changes were made during the case, select Yes to save the changes or No to delete the changes. If desired, save recorded video. To save a copy of the video to an external hard drive, connect one to a side panel USB connector. If a patient profile was not selected, enter patient information.</description>
+    </item>
+    
+    <item>
+      <title>Settings</title>
+      <link>https://naem-j.github.io/web-doc/operation/settings/</link>
+      <pubDate>Sat, 11 Jul 2020 23:43:44 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/operation/settings/</guid>
+      <description>To adjust image settings, click Settings.
+1 Vit System button &amp;ndash; Includes overlay options and imaging mode linking.  2 Phaco System button &amp;ndash; Includes overlay options.  3 Screen Layout button &amp;ndash; Adjusts the display layout and what features are included during surgical cases.  4 Recording button &amp;ndash; Sets video parameters.  5 Color Channels button &amp;ndash; Manages color emphasis.  6 Light Profiles button &amp;ndash; Adjusts colors depending on the light source.</description>
+    </item>
+    
+    <item>
+      <title>Screen Layout</title>
+      <link>https://naem-j.github.io/web-doc/operation/settings/screen_layout/</link>
+      <pubDate>Sat, 11 Jul 2020 23:44:20 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/operation/settings/screen_layout/</guid>
+      <description>To access the Screen Layout options, click Screen Layout. To set basic layout features, click Basic. To set advanced layout features, click Advanced.
+1 Patient Info drop-down menu &amp;ndash; Sets the frequency in which patient information displays during operation.  2 PiP Location &amp;ndash; Sets the screen corner to display input from the secondary source during PiP layout. This option applies only when Secondary Viewport is set to PiP.  3 Secondary Viewport buttons &amp;ndash; Sets the layout for a secondary viewport the Screen Layout button switches to when clicked.</description>
+    </item>
+    
+    <item>
+      <title>Recording Settings</title>
+      <link>https://naem-j.github.io/web-doc/operation/settings/recording_settings/</link>
+      <pubDate>Sat, 11 Jul 2020 23:44:31 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/operation/settings/recording_settings/</guid>
+      <description>To access Recording options, click Recording.
+NOTICERecording settings cannot be changed while recording video.Basic and Advanced To set basic settings, click Basic. To set advanced settings, click Advanced.
+1 Movies Format buttons &amp;ndash; Saves video files as .avi or .mov files.  2 Show Logo toggle switch &amp;ndash; Displays the system logo in the bottom-left corner during operation if Record DataFusion is disabled.  3 Auto-Record toggle switch &amp;ndash; Automatically starts recording when a case starts.</description>
+    </item>
+    
+    <item>
+      <title>Color Channel Management</title>
+      <link>https://naem-j.github.io/web-doc/operation/settings/color_channels/</link>
+      <pubDate>Sat, 11 Jul 2020 23:44:31 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/operation/settings/color_channels/</guid>
+      <description>To access Color Channel options, click Color Channel. The system previews adjusted color channels in the Color Channel dialog box.
+Editing Color Channels  Click an existing color channel. Click Edit. In the Name field, enter a new name if needed. Adjust the sliders to place emphasis on certain colors. Enable Advanced Settings to adjust brightness, contrast, gamma correction, hue, and saturation.  Adding Color Channels  Click Add. In the Name field, enter a descriptive name.</description>
+    </item>
+    
+    <item>
+      <title>Light Profile Settings</title>
+      <link>https://naem-j.github.io/web-doc/operation/settings/light_profile_settings/</link>
+      <pubDate>Sun, 25 Jul 2021 23:44:31 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/operation/settings/light_profile_settings/</guid>
+      <description>Light profile settings correct color for different illumination sources. To access Light Profile options, click Light Profile. Alcon recommends matching the illumination source with the corresponding light profile.
+1 Light Source selection &amp;ndash; Sets the applicable light source type.  2 White Balance button &amp;ndash; Sets white balance for the selected light source. Follow the on-screen instructions to complete the process. White balance optimizes image quality. Perform this process when the microscope or endo-illumination settings change, the lamps change, or the image quality or color balances are not optimized.</description>
+    </item>
+    
+    <item>
+      <title>Imaging Mode Management</title>
+      <link>https://naem-j.github.io/web-doc/operation/settings/imaging_mode_management/</link>
+      <pubDate>Sun, 25 Jul 2021 23:44:31 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/operation/settings/imaging_mode_management/</guid>
+      <description>Imaging modes are a core visualization baseline for routine cases. To access Imaging Mode options, click Imaging Mode. If operating with different illumination sources or optical systems that require inverted camera orientation, Alcon recommends creating a custom imaging mode to accommodate individual surgical workflows.
+The default imaging modes include the following:
+   Imaging Mode Camera Orientation Light Profile     Anterior Standard Halogen   Posterior Inverted Constellation™   Macular Standard Constellation™    To copy, edit, or delete imaging modes, click Unlock and then Confirm.</description>
+    </item>
+    
+    <item>
+      <title>Keyboard Shortcuts</title>
+      <link>https://naem-j.github.io/web-doc/additional_information/keyboard_shortcuts/</link>
+      <pubDate>Thu, 16 Jul 2020 00:03:17 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/additional_information/keyboard_shortcuts/</guid>
+      <description>   Key Description     S Take a snapshot   R Start or stop a recording   Ctrl+FN+F1 Swap viewport layout   Ctrl+FN+F2 Swap video source   Ctrl+FN+F3 Switch camera orientation   Ctrl+FN+F4 Cycle imaging modes   Ctrl+FN+F5 Cycle light profiles   Ctrl+FN+F6 Cycle color channels   Ctrl+Insert Increase gain (digitally brighten)   Ctrl+Delete Decrease gain (digitally darken)   W+W White balance   Ctrl+Enter Start case (from the Home screen)   Ctrl+FN+End (K830) or Ctrl+FN+Right Arrow (K600) Shutdown (from the Home screen) or save media and then shutdown (from the Case screen)    </description>
+    </item>
+    
+    <item>
+      <title>System Settings</title>
+      <link>https://naem-j.github.io/web-doc/operation/settings/system_settings/</link>
+      <pubDate>Sat, 11 Jul 2020 23:47:15 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/operation/settings/system_settings/</guid>
+      <description>System settings apply to all doctor profiles on the system and are primarily related to connecting devices to the system. They also include system information. To access System Setting options, click System Settings.
+ Topics in this section include the following:</description>
+    </item>
+    
+    <item>
+      <title>DataFusion</title>
+      <link>https://naem-j.github.io/web-doc/operation/settings/system_settings/datafusion/</link>
+      <pubDate>Sat, 11 Jul 2020 23:47:25 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/operation/settings/system_settings/datafusion/</guid>
+      <description>The DataFusion settings determine which device is connected to the system. To access DataFusion options, click DataFusion. The system can only enable one device at a time.
+1 Constellation™ toggle switch &amp;ndash; Enables Constellation™ connection.  2 Centurion™ toggle switch &amp;ndash; Enables Centurion™ connection.  3 Edit button &amp;ndash; Opens a dialog box to connect to a specific device.  To connect to a Centurion™, perform the following:
+  Click Edit.</description>
+    </item>
+    
+    <item>
+      <title>Input Source</title>
+      <link>https://naem-j.github.io/web-doc/operation/settings/system_settings/input_source/</link>
+      <pubDate>Sat, 11 Jul 2020 23:47:35 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/operation/settings/system_settings/input_source/</guid>
+      <description>The input source controls which port is displayed in the secondary view. To set the secondary input source, click Input Source.
+NOTICENo other sources are available for systems with a connected ORA SYSTEM&amp;trade;.In the View 2 panel, select one of the following:
+ HDMI – Displays the input source from a connected ORA SYSTEM™. Composite – Displays the input source connected to the front panel composite connector.</description>
+    </item>
+    
+    <item>
+      <title>Monitor</title>
+      <link>https://naem-j.github.io/web-doc/operation/settings/system_settings/monitor/</link>
+      <pubDate>Sat, 11 Jul 2020 23:47:47 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/operation/settings/system_settings/monitor/</guid>
+      <description>The monitor system settings have adjustable settings for displays connected to the system. To access Monitor options, click Monitor.
+Basic Monitor Settings WARNINGOnly the provided monitor should be used as the Primary Monitor.1 Monitor drop-down menu &amp;ndash; Selects a display.  2 Primary Monitor toggle switch &amp;ndash; Sets the selected display to the primary display.  3 View drop-down menu &amp;ndash; Sets the content on the screen.</description>
+    </item>
+    
+  </channel>
+</rss>

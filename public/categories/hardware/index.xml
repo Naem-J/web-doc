@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hardware on NGENUITY™ 3D Visualization System User Guide</title>
+    <link>https://naem-j.github.io/web-doc/categories/hardware/</link>
+    <description>Recent content in hardware on NGENUITY™ 3D Visualization System User Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Jul 2021 22:44:37 -0700</lastBuildDate><atom:link href="https://naem-j.github.io/web-doc/categories/hardware/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>System Components</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_components/</link>
+      <pubDate>Fri, 10 Jul 2020 22:45:21 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_components/</guid>
+      <description>At a minimum, the system includes the cart, camera, microscope, 3D glasses, keyboard, and touchpad. To optimize operation, incorporate additional devices such as the following:
+1 System &amp;ndash; Receives video from the camera and displays 3D images.  2 Patient Bed &amp;ndash; Holds the patient at a comfortable level.  3 Microscope stand &amp;ndash; Suspends a microscope above the patient.  4 Camera &amp;ndash; Captures 3D video.  5 Microscope &amp;ndash; Magnifies the view of the camera.</description>
+    </item>
+    
+    <item>
+      <title>Camera</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_components/camera/</link>
+      <pubDate>Fri, 10 Jul 2020 22:45:28 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_components/camera/</guid>
+      <description>The camera is a stereoscopic 3D camera with high dynamic range. Mount the camera on a surgical microscope.
+1 Camera &amp;ndash; Captures video from the connected microscope.  2 Strain relief screw &amp;ndash; Holds the camera cable in place to reduce stress on the cable connection.  3 USB camera connector &amp;ndash; Connects the camera to the cart.  4 Iris slider &amp;ndash; Adjusts light exposure captured by the camera. Alcon recommends setting the iris slider to 30%.</description>
+    </item>
+    
+    <item>
+      <title>Cart</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_components/cart/</link>
+      <pubDate>Fri, 10 Jul 2020 22:45:38 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_components/cart/</guid>
+      <description>The cart receives video input from the camera and additional data from other connected devices, and then outputs the results on the monitor.
+1 Primary Display &amp;ndash; Produces 3840 x 2160p 3D resolution video. 3D images require passive, circularly-polarized 3D glasses.  2 Touchpad &amp;ndash; Controls the cursor on the display. Another touchpad is also available on the wireless keyboard.  3 Front panel connectors &amp;ndash; Includes 2 USB, an HDMI output, and a composite connector.</description>
+    </item>
+    
+    <item>
+      <title>Displays</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_components/displays/</link>
+      <pubDate>Fri, 10 Jul 2020 22:45:44 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_components/displays/</guid>
+      <description>Depending on the display model, the system connects to the display either through DisplayPort input 1 or both the HDMI input 3 and COMM cable connector. The system also supports a secondary display to either duplicate the primary display view or show a subset of features.</description>
+    </item>
+    
+    <item>
+      <title>Glasses</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_components/glasses/</link>
+      <pubDate>Fri, 10 Jul 2020 22:45:52 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_components/glasses/</guid>
+      <description>3D images require passive, circularly-polarized 3D glasses. If necessary, wear the 3D glasses over prescription glasses.
+CAUTION To ensure optimal image quality, the system should only be used with Alcon-supplied 3D glasses. Contact Alcon if additional pairs are required. Polarized prescription glasses will distort the 3D effect and should not be used. The 3D glasses must be worn in front of the laser protective eyewear to avoid distorting the 3D effect.</description>
+    </item>
+    
+    <item>
+      <title>Keyboard and Mouse</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_components/keyboard_and_mouse/</link>
+      <pubDate>Fri, 10 Jul 2020 22:45:58 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_components/keyboard_and_mouse/</guid>
+      <description>The system includes both a wired and a wireless keyboard with an integrated touchpad. The wireless keyboard is rechargeable and the battery indicator displays the charge level while the keyboard is on.
+1 Power indicator &amp;ndash; Lights according to the battery status   Blinking green - The battery is charging. Solid green – The battery has adequate charge. Blinking red – The battery power is low. Recharge the battery.  2 USB connector (rear) &amp;ndash; Connects the keyboard to a power source to recharge the batteries.</description>
+    </item>
+    
+    <item>
+      <title>Datafusion</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_components/datafusion/</link>
+      <pubDate>Fri, 10 Jul 2020 22:46:08 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_components/datafusion/</guid>
+      <description>The Constellation™, Centurion™, and ORA SYSTEM™ provide additional patient and surgical operation information to display on the system. The Constellation™ and Centurion™ systems displays the information on the surgical screen while the ORA SYSTEM™ displays the information in PiP or split screen layouts. The Constellation™ also controls basic system functions. The ORA SYSTEM™ dynamic reticle displays on the live image (activate on the ORA SYSTEM™).</description>
+    </item>
+    
+    <item>
+      <title>Footswitch (Optional)</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_components/footswitch/</link>
+      <pubDate>Fri, 10 Jul 2020 22:46:15 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_components/footswitch/</guid>
+      <description>The footswitch performs basic functions during operation through controls operated by a foot.
+1 Left push button &amp;ndash; Changes the camera orientation between standard and inverted.  2 Right push button &amp;ndash; Starts or stops movie recordings.  3 Left pedal &amp;ndash; Cycles to the previous imaging mode.  4 Right pedal &amp;ndash; Cycles to the next imaging mode.  </description>
+    </item>
+    
+    <item>
+      <title>Accessories</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_components/accessories/</link>
+      <pubDate>Fri, 10 Jul 2020 22:46:20 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_components/accessories/</guid>
+      <description>The system may include the following accessories:
+ Lens cap - Protects the camera lens. Cable straps - Secure the camera cable to the microscope. Cable hooks - Route loose cables or coil cable for storage or transportation. Display remote and batteries - Sets the display settings. Use only if directed by Technical Services. The remote may require AA or AAA batteries depending on the display modal. Screen protector - Protects the display when the system is in storage.</description>
+    </item>
+    
+    <item>
+      <title>General Specifications</title>
+      <link>https://naem-j.github.io/web-doc/system_information/specifications/general_specifications/</link>
+      <pubDate>Sun, 25 Jul 2021 22:44:37 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/specifications/general_specifications/</guid>
+      <description>   Topic Value     Weight (unpacked) 133 kg (294 lb)   Weight (packed) 333 kg (734 lb)   Dimensions (unpacked) 82.6 cm L x 122.7 cm W x 193.8 cm H (32.5” L x 48.3” W x 76.3” H)   Dimensions (packed) 106.7 cm L x 153.2 cm W x 177.3 cm H (42” L x 60.3” W x 69.8” H)    </description>
+    </item>
+    
+    <item>
+      <title>Camera Installation</title>
+      <link>https://naem-j.github.io/web-doc/system_setup/system_assembly/camera_installation/</link>
+      <pubDate>Fri, 10 Jul 2020 21:06:52 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_setup/system_assembly/camera_installation/</guid>
+      <description>WARNINGIn case of emergency, keep the microscope oculars and mounting accessories in the cart top drawer. If there are any concerns regarding the continued safe use of the system, consider returning to the oculars.Mount the camera to a surgical microscope. Depending on the microscope model, install either a Z-ring or L-ring bracket to the camera lens (see the letters in the image below). The Z-ring bracket is for Alcon or Zeiss™ microscopes and the L-ring bracket is for Leica™ microscopes.</description>
+    </item>
+    
+    <item>
+      <title>Constellation™ Connection</title>
+      <link>https://naem-j.github.io/web-doc/system_setup/system_assembly/datafusion_connections/constellation_connection/</link>
+      <pubDate>Fri, 10 Jul 2020 22:05:57 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_setup/system_assembly/datafusion_connections/constellation_connection/</guid>
+      <description>WARNINGOnly the Constellation&amp;trade; Vision System should be connected to an Ethernet port on the embedded processing unit (EPU) during normal system operation. The other Ethernet ports are for maintenance purposes only.Connect the Ethernet cable from the system to the Constellation™ Ethernet connector and setup DataFusion settings on the system.</description>
+    </item>
+    
+    <item>
+      <title>Centurion™ Connection</title>
+      <link>https://naem-j.github.io/web-doc/system_setup/system_assembly/datafusion_connections/centurion_connection/</link>
+      <pubDate>Fri, 10 Jul 2020 22:06:22 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_setup/system_assembly/datafusion_connections/centurion_connection/</guid>
+      <description>Enable wireless communication on the Centurion™ and setup DataFusion settings on the system</description>
+    </item>
+    
+    <item>
+      <title>ORA SYSTEM™ Connection</title>
+      <link>https://naem-j.github.io/web-doc/system_setup/system_assembly/datafusion_connections/ora_system_connection/</link>
+      <pubDate>Fri, 10 Jul 2020 22:06:42 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_setup/system_assembly/datafusion_connections/ora_system_connection/</guid>
+      <description>Connect the provided HDMI cable to the HDMI output connector on the ORA SYSTEM™.</description>
+    </item>
+    
+    <item>
+      <title>Secondary Display (Optional)</title>
+      <link>https://naem-j.github.io/web-doc/system_setup/system_assembly/secondary_display/</link>
+      <pubDate>Fri, 10 Jul 2020 22:09:17 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_setup/system_assembly/secondary_display/</guid>
+      <description>To connect a secondary display, connect the it to the HDMI output connector on the system front panel.</description>
+    </item>
+    
+    <item>
+      <title>Startup Procedure</title>
+      <link>https://naem-j.github.io/web-doc/system_setup/startup_procedure/</link>
+      <pubDate>Fri, 10 Jul 2020 22:15:33 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_setup/startup_procedure/</guid>
+      <description>WARNING System isolation from mains is achieved through detachment of power cord. Turn OFF the power switch and unplug the power cord from wall outlet to achieve isolation from mains. Do not bypass the isolation transformer and connect any of the NGENUITY™ components directly to a wall outlet. To avoid risk of electric shock, this equipment must only be connected to a supply mains with protective earth (ground). The system should be connected to an uninterruptible power source when loss of power would result in an unacceptable risk.</description>
+    </item>
+    
+    <item>
+      <title>System Movement</title>
+      <link>https://naem-j.github.io/web-doc/system_setup/system_position/system_movement/</link>
+      <pubDate>Sat, 11 Jul 2020 23:12:26 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_setup/system_position/system_movement/</guid>
+      <description>CAUTIONDo not push or pull unit by the display or any cable. The unit should be pulled and not pushed, especially over elevator and door thresholds.To move the system around the room, unlock the casters. Each castor on the cart has three modes, controlled by the brake pedal. Set each castor in total lock mode while the system is being used.
+ The casters do not rotate    Unlocked    Total Lock   </description>
+    </item>
+    
+    <item>
+      <title>Display Articulation</title>
+      <link>https://naem-j.github.io/web-doc/system_setup/system_position/display_articulation/</link>
+      <pubDate>Sun, 25 Jul 2021 22:15:33 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_setup/system_position/display_articulation/</guid>
+      <description>The display moves up or down the mast, rotates side to side, and tilts back or forth. Only grasp the bottom or sides of the display while adjusting it. Avoid putting stress on the top of the display.
+NOTICEIf necessary, loosen the adjustment knobs on the display mounting bracket to adjust the tilt and tighten them to secure it. Do not remove the adjustment knobs.</description>
+    </item>
+    
+    <item>
+      <title>View Optimization</title>
+      <link>https://naem-j.github.io/web-doc/system_setup/system_position/view_optimization/</link>
+      <pubDate>Sun, 25 Jul 2021 22:15:33 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_setup/system_position/view_optimization/</guid>
+      <description>For the best 3D effect, place the display next to the patient bed, between 4′ to 6′ (1.2 m to 1.8 m) away from the user. Depending on the display, align either the bottom third or middle of the display perpendicular with the line of sight of the seated user. If necessary, also ensure other viewers have a satisfactory view.</description>
+    </item>
+    
+    <item>
+      <title>Camera Sensor Initialization</title>
+      <link>https://naem-j.github.io/web-doc/system_setup/camera_confoguration/sensor_initialization/</link>
+      <pubDate>Sun, 25 Jul 2021 22:44:37 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_setup/camera_confoguration/sensor_initialization/</guid>
+      <description>Sensor initialization helps prevent image degradation and noise. Perform the following steps during startup or after camera connection. A message to expose the camera to more light appears.
+NOTICEImage quality is also influenced by other factors.  Turn on all room lights.
+  Open the camera iris to 100%.
+  Position the white balance card at 90 degrees under the microscope objective lens. The message disappears within 5 seconds.</description>
+    </item>
+    
+    <item>
+      <title>Camera Pan</title>
+      <link>https://naem-j.github.io/web-doc/system_setup/camera_confoguration/camera_pan/</link>
+      <pubDate>Sun, 25 Jul 2021 22:44:37 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_setup/camera_confoguration/camera_pan/</guid>
+      <description>The camera pan function adjusts the alignment of the image without moving the camera or microscope mount. The range of image movement is limited.
+The pan function is useful in the following cases:
+ In retina cases, where the wide angle lens is not centered in the optical path. In minimally invasive glaucoma surgery (MIGS) procedures when gonioscopy lens image is not centered in optical path.  Use Ctrl+Up, Ctrl+Right, Ctrl+Down, or Ctrl+Left to electronically move the image.</description>
+    </item>
+    
+    <item>
+      <title>White Balance</title>
+      <link>https://naem-j.github.io/web-doc/system_setup/white_balance/</link>
+      <pubDate>Sun, 25 Jul 2021 22:44:37 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_setup/white_balance/</guid>
+      <description>To calibrate light settings, verify the light temperature and perform the white balance procedure (see Light Profile Settings). Before setting white balance, perform the following checks:
+ Set the camera iris slider to normal working conditions for the user. Alcon recommends 30%. Set the microscope to maximum zoom. Disable any red reflex settings. Remove all extraneous devices (for example, beam splitters or invertors). Disable any unique microscope filtration or lens settings (for example, laser filters).</description>
+    </item>
+    
+    <item>
+      <title>Setup Recommendations</title>
+      <link>https://naem-j.github.io/web-doc/system_setup/setup_recommendations/</link>
+      <pubDate>Sat, 11 Jul 2020 23:13:00 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_setup/setup_recommendations/</guid>
+      <description>To extend the depth of field and improve performance at high magnification, follow these tips:
+ Parfocalize visualization (microscope, non-contact, contact) to focus the surgical space. Zoom in to fill the display to maximize the quality of surgical view.  </description>
+    </item>
+    
+    <item>
+      <title>Label Locations</title>
+      <link>https://naem-j.github.io/web-doc/system_information/safety_information/label_locations/</link>
+      <pubDate>Fri, 10 Jul 2020 22:43:42 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/safety_information/label_locations/</guid>
+      <description>Note the safety and system label locations. Refer to the system for specific information.
+1 Moving parts warning label &amp;ndash; Includes a warning related to a protective guard.  2 Identifies compatible connectors. &amp;ndash; The location and connector type varies with the display model.  3 Oculars storage warning label &amp;ndash; Includes information about storing the microscope oculars.  4 Product label &amp;ndash; Includes information about the system.  5 Wireless label &amp;ndash; Indicates wireless capabilities.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Specifications on NGENUITY™ 3D Visualization System User Guide</title>
+    <link>https://naem-j.github.io/web-doc/system_information/specifications/</link>
+    <description>Recent content in Specifications on NGENUITY™ 3D Visualization System User Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Jul 2021 22:44:37 -0700</lastBuildDate><atom:link href="https://naem-j.github.io/web-doc/system_information/specifications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>General Specifications</title>
+      <link>https://naem-j.github.io/web-doc/system_information/specifications/general_specifications/</link>
+      <pubDate>Sun, 25 Jul 2021 22:44:37 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/specifications/general_specifications/</guid>
+      <description>   Topic Value     Weight (unpacked) 133 kg (294 lb)   Weight (packed) 333 kg (734 lb)   Dimensions (unpacked) 82.6 cm L x 122.7 cm W x 193.8 cm H (32.5” L x 48.3” W x 76.3” H)   Dimensions (packed) 106.7 cm L x 153.2 cm W x 177.3 cm H (42” L x 60.3” W x 69.8” H)    </description>
+    </item>
+    
+    <item>
+      <title>Environmental Specifications</title>
+      <link>https://naem-j.github.io/web-doc/system_information/specifications/environmental_specifications/</link>
+      <pubDate>Sun, 25 Jul 2021 22:44:37 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/specifications/environmental_specifications/</guid>
+      <description>   Topic Value     Temperature (operating) 5 °C to 30 °C (41 °F to 86 °F)   Temperature (storage and transport) 0 °C to 50 °C (32 °F to 122 °F)   Relative humidity (operating) 15% to 85% non-condensing   Relative humidty (storage and transport) 10% to 90% non-condensing   Atmospheric pressure 100 to 75 kPa   Atmospheric pressure 100 to 30 kPa    </description>
+    </item>
+    
+  </channel>
+</rss>

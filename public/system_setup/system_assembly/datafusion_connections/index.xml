@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Datafusion Connections (Optional) on NGENUITY™ 3D Visualization System User Guide</title>
+    <link>https://naem-j.github.io/web-doc/system_setup/system_assembly/datafusion_connections/</link>
+    <description>Recent content in Datafusion Connections (Optional) on NGENUITY™ 3D Visualization System User Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Jul 2020 22:15:10 -0700</lastBuildDate><atom:link href="https://naem-j.github.io/web-doc/system_setup/system_assembly/datafusion_connections/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Constellation™ Connection</title>
+      <link>https://naem-j.github.io/web-doc/system_setup/system_assembly/datafusion_connections/constellation_connection/</link>
+      <pubDate>Fri, 10 Jul 2020 22:05:57 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_setup/system_assembly/datafusion_connections/constellation_connection/</guid>
+      <description>WARNINGOnly the Constellation&amp;trade; Vision System should be connected to an Ethernet port on the embedded processing unit (EPU) during normal system operation. The other Ethernet ports are for maintenance purposes only.Connect the Ethernet cable from the system to the Constellation™ Ethernet connector and setup DataFusion settings on the system.</description>
+    </item>
+    
+    <item>
+      <title>Centurion™ Connection</title>
+      <link>https://naem-j.github.io/web-doc/system_setup/system_assembly/datafusion_connections/centurion_connection/</link>
+      <pubDate>Fri, 10 Jul 2020 22:06:22 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_setup/system_assembly/datafusion_connections/centurion_connection/</guid>
+      <description>Enable wireless communication on the Centurion™ and setup DataFusion settings on the system</description>
+    </item>
+    
+    <item>
+      <title>ORA SYSTEM™ Connection</title>
+      <link>https://naem-j.github.io/web-doc/system_setup/system_assembly/datafusion_connections/ora_system_connection/</link>
+      <pubDate>Fri, 10 Jul 2020 22:06:42 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_setup/system_assembly/datafusion_connections/ora_system_connection/</guid>
+      <description>Connect the provided HDMI cable to the HDMI output connector on the ORA SYSTEM™.</description>
+    </item>
+    
+  </channel>
+</rss>

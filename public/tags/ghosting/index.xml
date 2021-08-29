@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ghosting on NGENUITY™ 3D Visualization System User Guide</title>
+    <link>https://naem-j.github.io/web-doc/tags/ghosting/</link>
+    <description>Recent content in ghosting on NGENUITY™ 3D Visualization System User Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Jul 2021 23:29:26 -0700</lastBuildDate><atom:link href="https://naem-j.github.io/web-doc/tags/ghosting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Image Retention</title>
+      <link>https://naem-j.github.io/web-doc/maintenance/basic/image_retention/</link>
+      <pubDate>Sun, 25 Jul 2021 23:29:26 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/maintenance/basic/image_retention/</guid>
+      <description>Image retention is similar to a screen burn or ghosting shown on the display. To refresh the display pixels, press the Power button either on the display for about 3 seconds or the remote control. The display power indicator flashes while the process is in progress.
+NOTICESome displays take about 10 minutes to begin the process.</description>
+    </item>
+    
+  </channel>
+</rss>

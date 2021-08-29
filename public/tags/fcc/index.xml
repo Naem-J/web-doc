@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fcc on NGENUITY™ 3D Visualization System User Guide</title>
+    <link>https://naem-j.github.io/web-doc/tags/fcc/</link>
+    <description>Recent content in fcc on NGENUITY™ 3D Visualization System User Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Jul 2020 22:40:48 -0700</lastBuildDate><atom:link href="https://naem-j.github.io/web-doc/tags/fcc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>USA - Federal Communications Commission (FCC)</title>
+      <link>https://naem-j.github.io/web-doc/system_information/safety_information/wireless_certification/fcc/</link>
+      <pubDate>Fri, 10 Jul 2020 22:40:48 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/safety_information/wireless_certification/fcc/</guid>
+      <description>This device complies with part 15 of the FCC Rules. Operation is subject to the following two conditions: (1) This device may not cause harmful interference, and (2) this device must accept any interference received, including interference that may cause undesired operation.
+CAUTIONChange or modifications made to this equipment (including the antenna) not expressly approved by the Company may void the FCC authorization to operate this equipment.FCC Radiation Exposure Statement WARNINGTo ensure that the radio transmitter complies with current FCC regulations limiting both maximum output RF power and human exposure to radio frequency radiation, a separate distance of at least 20 cm must be maintained between the unit’s antenna and the body of the user and any nearby persons at all times, and unit’s antenna must not be co-located or operating in conjunction with any other antenna or transmitter.</description>
+    </item>
+    
+  </channel>
+</rss>

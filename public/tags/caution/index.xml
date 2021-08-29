@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>caution on NGENUITY™ 3D Visualization System User Guide</title>
+    <link>https://naem-j.github.io/web-doc/tags/caution/</link>
+    <description>Recent content in caution on NGENUITY™ 3D Visualization System User Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Jul 2021 22:38:19 -0700</lastBuildDate><atom:link href="https://naem-j.github.io/web-doc/tags/caution/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>General Information</title>
+      <link>https://naem-j.github.io/web-doc/system_information/guide_overview/front_matter/</link>
+      <pubDate>Sun, 25 Jul 2021 04:28:49 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/guide_overview/front_matter/</guid>
+      <description>Manufacturer   Manufacturer:
+Alcon Laboratories, Inc.
+6201 South Freeway
+Fort Worth, TX 76134-2099, USA
+Made in the USA with global materials
+Produced By:
+Alcon Research, LLC.
+15800 Alcon Parkway
+Irvine, CA 92618-3818, USA
+ European Representative   Alcon Laboratories Belgium
+Lichterveld 3
+2870 Puurs-Sint-Amands
+Belgium
+US Pat: www.alconpatents.com
+ CE Mark    Medical Device Symbol    Prescription Only   Catalog number: 8065000112 Rev.</description>
+    </item>
+    
+    <item>
+      <title>Symbols</title>
+      <link>https://naem-j.github.io/web-doc/system_information/guide_overview/symbols/</link>
+      <pubDate>Fri, 10 Jul 2020 22:34:49 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/guide_overview/symbols/</guid>
+      <description>The following symbols and icons are used on the system and in labels:
+ Main power switch - on position    Main power switch - off position    AC current input    Safety Warning    Risk of Electric Shock    Manufacturer    Intertek NRTL mark    European Conformity mark    Authorized representative in the European community    Equipment should not be disposed of in domestic household waste.</description>
+    </item>
+    
+    <item>
+      <title>General Warnings and Precautions</title>
+      <link>https://naem-j.github.io/web-doc/system_information/safety_information/general_warnings/</link>
+      <pubDate>Fri, 10 Jul 2020 22:38:19 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/safety_information/general_warnings/</guid>
+      <description>Pay close attention to warnings and cautions. A warning statement is written to protect individuals from bodily harm. A caution statement is written to protect the instrument from damage. This section is for general system warnings and precautions only.
+WARNING In case of a deficiency, do not use the system; call Alcon Technical Services. Use of accessories other than those provided may affect system performance and create potential hazards. If it is determined that an accessory not provided by Alcon has contributed to the malfunction of the equipment during the warranty period, service will be provided at prevailing hourly rates.</description>
+    </item>
+    
+    <item>
+      <title>EMC Compliance</title>
+      <link>https://naem-j.github.io/web-doc/system_information/safety_information/emc_compliance/emc_compliance/</link>
+      <pubDate>Sun, 25 Jul 2021 22:38:19 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/safety_information/emc_compliance/emc_compliance/</guid>
+      <description>The NGENUITY™ system is designed to work in the Professional Healthcare facility environment.
+The NGENUITY™ system requires special precautions regarding EMC and needs to be installed and put into service according to the EMC information provided in the below tables.
+The NGENUITY™ system is a medical device designated for Indoor Use Only.
+WARNING Use of this system adjacent to or stacked with other equipment should be avoided because it could result in improper operation.</description>
+    </item>
+    
+    <item>
+      <title>Safeguards for Use with Other Medical Equipment</title>
+      <link>https://naem-j.github.io/web-doc/system_information/safety_information/emc_compliance/safeguards/</link>
+      <pubDate>Sun, 25 Jul 2021 22:38:19 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/safety_information/emc_compliance/safeguards/</guid>
+      <description>CAUTION All equipment connected to this unit shall be certified according to IEC 60601-1 or other IEC/ISO standards applicable to the equipment. Furthermore, all complete configurations shall comply with IEC 60601-1. If the user connects additional equipment to the signal input or signal output, this alters the medical device system, and it is then the user’s responsibility that the system complies with the requirements of the standard IEC 60601-1. If in doubt, contact Alcon Technical Services.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>light on NGENUITY™ 3D Visualization System User Guide</title>
+    <link>https://naem-j.github.io/web-doc/tags/light/</link>
+    <description>Recent content in light on NGENUITY™ 3D Visualization System User Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jul 2020 23:30:02 -0700</lastBuildDate><atom:link href="https://naem-j.github.io/web-doc/tags/light/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Home Screen Layout</title>
+      <link>https://naem-j.github.io/web-doc/operation/software_overview/home_screen/</link>
+      <pubDate>Sat, 11 Jul 2020 23:22:10 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/operation/software_overview/home_screen/</guid>
+      <description>1 Home panel &amp;ndash; Contains menus to manage doctor profiles, add or delete patient profiles, and start a case.  2 Shutdown button &amp;ndash; Turns off the system.  3 System Settings button &amp;ndash; Opens the system settings options (see System Settings).  4 Media Management App button &amp;ndash; Opens an application to view and edit recorded video and snapshots.  5 Eject Drive button &amp;ndash; Safely ejects a connected hard drive.</description>
+    </item>
+    
+    <item>
+      <title>Settings</title>
+      <link>https://naem-j.github.io/web-doc/operation/settings/</link>
+      <pubDate>Sat, 11 Jul 2020 23:43:44 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/operation/settings/</guid>
+      <description>To adjust image settings, click Settings.
+1 Vit System button &amp;ndash; Includes overlay options and imaging mode linking.  2 Phaco System button &amp;ndash; Includes overlay options.  3 Screen Layout button &amp;ndash; Adjusts the display layout and what features are included during surgical cases.  4 Recording button &amp;ndash; Sets video parameters.  5 Color Channels button &amp;ndash; Manages color emphasis.  6 Light Profiles button &amp;ndash; Adjusts colors depending on the light source.</description>
+    </item>
+    
+    <item>
+      <title>Shutdown Procedure</title>
+      <link>https://naem-j.github.io/web-doc/maintenance/shutdown/</link>
+      <pubDate>Wed, 15 Jul 2020 23:24:10 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/maintenance/shutdown/</guid>
+      <description> On the Home screen, click Power. Click Shut Down. Wait for the EPU indicators next to the USB connectors (see Cart) to turn off (~30 s). Turn off the power switch at the base of the cart.  </description>
+    </item>
+    
+    <item>
+      <title>K830 Keyboard Recharging</title>
+      <link>https://naem-j.github.io/web-doc/maintenance/basic/keyboard_recharge/</link>
+      <pubDate>Wed, 15 Jul 2020 23:29:38 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/maintenance/basic/keyboard_recharge/</guid>
+      <description>To charge the K830 keyboard, use the micro USB cable to connect the keyboard to a USB connector on the cart. The battery indicator blinks green while charging. Charge it until the indicator light stops blinking. The keyboard can be used while charging. If the battery power is low, the indicator blinks red and the keyboard back light turns off.</description>
+    </item>
+    
+    <item>
+      <title>Troubleshooting</title>
+      <link>https://naem-j.github.io/web-doc/maintenance/troubleshooting/</link>
+      <pubDate>Wed, 15 Jul 2020 23:30:02 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/maintenance/troubleshooting/</guid>
+      <description>If the system exhibits the following symptoms, attempt the corresponding troubleshooting procedures before contacting Technical Services.
+The image is blurry or out of focus.  Use the microscope controls to focus the image on-screen. Check to see that the camera is flush on the microscope. Wearing the 3D glasses, close one eye at a time to check the right and left eye focus for the camera. Change the camera orientation and note if the issue remains in the same location.</description>
+    </item>
+    
+  </channel>
+</rss>

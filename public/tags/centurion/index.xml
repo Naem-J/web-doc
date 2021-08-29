@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>centurion on NGENUITY™ 3D Visualization System User Guide</title>
+    <link>https://naem-j.github.io/web-doc/tags/centurion/</link>
+    <description>Recent content in centurion on NGENUITY™ 3D Visualization System User Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Jul 2021 22:40:48 -0700</lastBuildDate><atom:link href="https://naem-j.github.io/web-doc/tags/centurion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Terms</title>
+      <link>https://naem-j.github.io/web-doc/system_information/guide_overview/terms/</link>
+      <pubDate>Fri, 10 Jul 2020 22:34:17 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/guide_overview/terms/</guid>
+      <description>The following terms are used in this guide or in the application:
+ System - The NGENUITY™ 3D Visualization System, including the cart, display, and camera. Constellation™ - The Constellation™ Vision System Centurion™ - The Centurion™ Vision System K600 keyboard - The Logitech1 K600 wireless keyboard (select countries only) K830 keyboard - The Logitech1 K830 wireless keyboard ORA SYSTEM™ - The ORA SYSTEM™ with VerifEye™ + Technology    Trademarks are property of their respective owners.</description>
+    </item>
+    
+    <item>
+      <title>Datafusion</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_components/datafusion/</link>
+      <pubDate>Fri, 10 Jul 2020 22:46:08 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_components/datafusion/</guid>
+      <description>The Constellation™, Centurion™, and ORA SYSTEM™ provide additional patient and surgical operation information to display on the system. The Constellation™ and Centurion™ systems displays the information on the surgical screen while the ORA SYSTEM™ displays the information in PiP or split screen layouts. The Constellation™ also controls basic system functions. The ORA SYSTEM™ dynamic reticle displays on the live image (activate on the ORA SYSTEM™).</description>
+    </item>
+    
+    <item>
+      <title>Centurion™ Connection</title>
+      <link>https://naem-j.github.io/web-doc/system_setup/system_assembly/datafusion_connections/centurion_connection/</link>
+      <pubDate>Fri, 10 Jul 2020 22:06:22 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_setup/system_assembly/datafusion_connections/centurion_connection/</guid>
+      <description>Enable wireless communication on the Centurion™ and setup DataFusion settings on the system</description>
+    </item>
+    
+    <item>
+      <title>Centurion™ Settings</title>
+      <link>https://naem-j.github.io/web-doc/operation/settings/centurion_settings/</link>
+      <pubDate>Sat, 11 Jul 2020 23:44:11 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/operation/settings/centurion_settings/</guid>
+      <description>To access the Centurion™ Overlay options, click Centurion™.
+1 Opacity slider &amp;ndash; Lower the slider to make the overlay text more transparent or raise the slider to make the overlay text less transparent.  2 Enlarge Overlay toggle switch &amp;ndash; Enlarges the overlay features.  3 Show Only in Recording toggle switch &amp;ndash; Hides Centurion™ overlay information during operation, but displays it in recordings. NOTE: If the Centurion™ overlay is displayed on-screen, enable the record DataFusion toggle in Recording settings to capture the overlays in recorded video files.</description>
+    </item>
+    
+    <item>
+      <title>Cart (Communication Link with Centurion)</title>
+      <link>https://naem-j.github.io/web-doc/system_information/safety_information/wireless_certification/comm_link/</link>
+      <pubDate>Sun, 25 Jul 2021 22:40:48 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/safety_information/wireless_certification/comm_link/</guid>
+      <description> Frequency or frequency band of transmission: 2.405 GHz to 2.480 GHz Type and frequency characteristics of the modulation: OQPSK (Offset quadrature phase-shift keying) Effective Radiated Power (ERP): 11.3 dBm (13.40 mW)  </description>
+    </item>
+    
+    <item>
+      <title>DataFusion</title>
+      <link>https://naem-j.github.io/web-doc/operation/settings/system_settings/datafusion/</link>
+      <pubDate>Sat, 11 Jul 2020 23:47:25 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/operation/settings/system_settings/datafusion/</guid>
+      <description>The DataFusion settings determine which device is connected to the system. To access DataFusion options, click DataFusion. The system can only enable one device at a time.
+1 Constellation™ toggle switch &amp;ndash; Enables Constellation™ connection.  2 Centurion™ toggle switch &amp;ndash; Enables Centurion™ connection.  3 Edit button &amp;ndash; Opens a dialog box to connect to a specific device.  To connect to a Centurion™, perform the following:
+  Click Edit.</description>
+    </item>
+    
+  </channel>
+</rss>

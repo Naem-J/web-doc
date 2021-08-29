@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>introduction on NGENUITY™ 3D Visualization System User Guide</title>
+    <link>https://naem-j.github.io/web-doc/categories/introduction/</link>
+    <description>Recent content in introduction on NGENUITY™ 3D Visualization System User Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Jul 2021 22:44:37 -0700</lastBuildDate><atom:link href="https://naem-j.github.io/web-doc/categories/introduction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guide Overview</title>
+      <link>https://naem-j.github.io/web-doc/system_information/guide_overview/</link>
+      <pubDate>Fri, 10 Jul 2020 22:33:50 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/guide_overview/</guid>
+      <description>This user guide contains set up, operation, and other information about the NGENUITY™ 3D Visualization System. It is for 1.4 system models or systems upgraded to software version 1.4.</description>
+    </item>
+    
+    <item>
+      <title>General Information</title>
+      <link>https://naem-j.github.io/web-doc/system_information/guide_overview/front_matter/</link>
+      <pubDate>Sun, 25 Jul 2021 04:28:49 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/guide_overview/front_matter/</guid>
+      <description>Manufacturer   Manufacturer:
+Alcon Laboratories, Inc.
+6201 South Freeway
+Fort Worth, TX 76134-2099, USA
+Made in the USA with global materials
+Produced By:
+Alcon Research, LLC.
+15800 Alcon Parkway
+Irvine, CA 92618-3818, USA
+ European Representative   Alcon Laboratories Belgium
+Lichterveld 3
+2870 Puurs-Sint-Amands
+Belgium
+US Pat: www.alconpatents.com
+ CE Mark    Medical Device Symbol    Prescription Only   Catalog number: 8065000112 Rev.</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>https://naem-j.github.io/web-doc/system_information/guide_overview/terms/</link>
+      <pubDate>Fri, 10 Jul 2020 22:34:17 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/guide_overview/terms/</guid>
+      <description>The following terms are used in this guide or in the application:
+ System - The NGENUITY™ 3D Visualization System, including the cart, display, and camera. Constellation™ - The Constellation™ Vision System Centurion™ - The Centurion™ Vision System K600 keyboard - The Logitech1 K600 wireless keyboard (select countries only) K830 keyboard - The Logitech1 K830 wireless keyboard ORA SYSTEM™ - The ORA SYSTEM™ with VerifEye™ + Technology    Trademarks are property of their respective owners.</description>
+    </item>
+    
+    <item>
+      <title>Abbreviations and Acronyms</title>
+      <link>https://naem-j.github.io/web-doc/system_information/guide_overview/abbreviations_and_acronyms/</link>
+      <pubDate>Sun, 25 Jul 2021 22:34:17 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/guide_overview/abbreviations_and_acronyms/</guid>
+      <description>The following abbreviations and acronyms appear in this guide or in the application:
+ 2D - 2-dimensional 3D - 3-dimensional AC - Alternating current EPU - Embedded processing unit PiP - Picture-in-picture layout USB - Universal serial bus  </description>
+    </item>
+    
+    <item>
+      <title>Symbols</title>
+      <link>https://naem-j.github.io/web-doc/system_information/guide_overview/symbols/</link>
+      <pubDate>Fri, 10 Jul 2020 22:34:49 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/guide_overview/symbols/</guid>
+      <description>The following symbols and icons are used on the system and in labels:
+ Main power switch - on position    Main power switch - off position    AC current input    Safety Warning    Risk of Electric Shock    Manufacturer    Intertek NRTL mark    European Conformity mark    Authorized representative in the European community    Equipment should not be disposed of in domestic household waste.</description>
+    </item>
+    
+    <item>
+      <title>System Description</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_overview/system_description/</link>
+      <pubDate>Fri, 10 Jul 2020 22:35:27 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_overview/system_description/</guid>
+      <description>The Alcon NGENUITY™ 3D Visualization System is a 3D stereoscopic, high-definition digital video camera and workstation that operates as an adjunct to a surgical microscope during surgery. The system displays real-time images or images from recordings on a flat-panel, high-definition digital 3D display device, positioned for viewing video. There is no additional light (or energy) delivered by the system.</description>
+    </item>
+    
+    <item>
+      <title>Intended Use</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_overview/intended_use/</link>
+      <pubDate>Fri, 10 Jul 2020 22:35:43 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_overview/intended_use/</guid>
+      <description>The NGENUITY™ 3D Visualization System is intended to aid trained surgeons in visualization during ophthalmic surgery.</description>
+    </item>
+    
+    <item>
+      <title>Indications for Use</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_overview/indications_for_use/</link>
+      <pubDate>Fri, 10 Jul 2020 22:37:01 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_overview/indications_for_use/</guid>
+      <description>The NGENUITY™ 3D Visualization System is indicated for providing magnified stereoscopic images of objects in real time or from recordings. It may also display non-diagnostic information from validated Alcon systems.</description>
+    </item>
+    
+    <item>
+      <title>Contraindications</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_overview/contraindications/</link>
+      <pubDate>Fri, 10 Jul 2020 22:36:22 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_overview/contraindications/</guid>
+      <description>There are no contraindications at this time.</description>
+    </item>
+    
+    <item>
+      <title>Clinical Benefits</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_overview/clinical_benefits/</link>
+      <pubDate>Fri, 10 Jul 2020 22:37:22 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_overview/clinical_benefits/</guid>
+      <description>The intended clinical benefit of the NGENUITY™ 3D Visualization System is to allow users to visualize ophthalmic surgery by looking at a display screen rather than in standard microscope oculars for improved ergonomic benefit.</description>
+    </item>
+    
+    <item>
+      <title>Environmental Considerations</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_overview/environmental_considerations/</link>
+      <pubDate>Fri, 10 Jul 2020 22:37:37 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_overview/environmental_considerations/</guid>
+      <description>Keep the system dry and protect it from harmful ingress of water. The camera includes a rating of IPX1: protection against vertically falling drops of water. See Specifications for temperature and humidity considerations.
+WARNINGTo prevent fire or shock hazard, do not expose system to rain or moisture. This system is not suitable for use in the presence of flammable anesthetics mixture with air or with oxygen. </description>
+    </item>
+    
+    <item>
+      <title>General Warnings and Precautions</title>
+      <link>https://naem-j.github.io/web-doc/system_information/safety_information/general_warnings/</link>
+      <pubDate>Fri, 10 Jul 2020 22:38:19 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/safety_information/general_warnings/</guid>
+      <description>Pay close attention to warnings and cautions. A warning statement is written to protect individuals from bodily harm. A caution statement is written to protect the instrument from damage. This section is for general system warnings and precautions only.
+WARNING In case of a deficiency, do not use the system; call Alcon Technical Services. Use of accessories other than those provided may affect system performance and create potential hazards. If it is determined that an accessory not provided by Alcon has contributed to the malfunction of the equipment during the warranty period, service will be provided at prevailing hourly rates.</description>
+    </item>
+    
+    <item>
+      <title>Limited Warranty</title>
+      <link>https://naem-j.github.io/web-doc/system_information/warranty/</link>
+      <pubDate>Fri, 10 Jul 2020 22:44:37 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/warranty/</guid>
+      <description>Alcon Laboratories, Inc., will repair or replace at its option, any system or accompanying accessories found to be defective in material and/or workmanship for a period of one (1) year from the date of initial installation. This warranty applies to the original purchaser of the system, when said system is properly installed, maintained, and operated in accordance with published instructions.
+Alcon Laboratories shall not be obligated to provide services under this warranty for damage to or destruction of systems covered where such damage or destruction is (i) a result of or caused by fire or explosion of any origin, riot, civil commotion, aircraft, war, or any Act of God including, but not limited to lightning, windstorm, hail, flood, earthquake, or (ii) caused by customer’s misuse or improper servicing of said systems.</description>
+    </item>
+    
+    <item>
+      <title>System Components</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_components/</link>
+      <pubDate>Fri, 10 Jul 2020 22:45:21 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_components/</guid>
+      <description>At a minimum, the system includes the cart, camera, microscope, 3D glasses, keyboard, and touchpad. To optimize operation, incorporate additional devices such as the following:
+1 System &amp;ndash; Receives video from the camera and displays 3D images.  2 Patient Bed &amp;ndash; Holds the patient at a comfortable level.  3 Microscope stand &amp;ndash; Suspends a microscope above the patient.  4 Camera &amp;ndash; Captures 3D video.  5 Microscope &amp;ndash; Magnifies the view of the camera.</description>
+    </item>
+    
+    <item>
+      <title>Camera</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_components/camera/</link>
+      <pubDate>Fri, 10 Jul 2020 22:45:28 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_components/camera/</guid>
+      <description>The camera is a stereoscopic 3D camera with high dynamic range. Mount the camera on a surgical microscope.
+1 Camera &amp;ndash; Captures video from the connected microscope.  2 Strain relief screw &amp;ndash; Holds the camera cable in place to reduce stress on the cable connection.  3 USB camera connector &amp;ndash; Connects the camera to the cart.  4 Iris slider &amp;ndash; Adjusts light exposure captured by the camera. Alcon recommends setting the iris slider to 30%.</description>
+    </item>
+    
+    <item>
+      <title>Cart</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_components/cart/</link>
+      <pubDate>Fri, 10 Jul 2020 22:45:38 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_components/cart/</guid>
+      <description>The cart receives video input from the camera and additional data from other connected devices, and then outputs the results on the monitor.
+1 Primary Display &amp;ndash; Produces 3840 x 2160p 3D resolution video. 3D images require passive, circularly-polarized 3D glasses.  2 Touchpad &amp;ndash; Controls the cursor on the display. Another touchpad is also available on the wireless keyboard.  3 Front panel connectors &amp;ndash; Includes 2 USB, an HDMI output, and a composite connector.</description>
+    </item>
+    
+    <item>
+      <title>Displays</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_components/displays/</link>
+      <pubDate>Fri, 10 Jul 2020 22:45:44 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_components/displays/</guid>
+      <description>Depending on the display model, the system connects to the display either through DisplayPort input 1 or both the HDMI input 3 and COMM cable connector. The system also supports a secondary display to either duplicate the primary display view or show a subset of features.</description>
+    </item>
+    
+    <item>
+      <title>Glasses</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_components/glasses/</link>
+      <pubDate>Fri, 10 Jul 2020 22:45:52 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_components/glasses/</guid>
+      <description>3D images require passive, circularly-polarized 3D glasses. If necessary, wear the 3D glasses over prescription glasses.
+CAUTION To ensure optimal image quality, the system should only be used with Alcon-supplied 3D glasses. Contact Alcon if additional pairs are required. Polarized prescription glasses will distort the 3D effect and should not be used. The 3D glasses must be worn in front of the laser protective eyewear to avoid distorting the 3D effect.</description>
+    </item>
+    
+    <item>
+      <title>Keyboard and Mouse</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_components/keyboard_and_mouse/</link>
+      <pubDate>Fri, 10 Jul 2020 22:45:58 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_components/keyboard_and_mouse/</guid>
+      <description>The system includes both a wired and a wireless keyboard with an integrated touchpad. The wireless keyboard is rechargeable and the battery indicator displays the charge level while the keyboard is on.
+1 Power indicator &amp;ndash; Lights according to the battery status   Blinking green - The battery is charging. Solid green – The battery has adequate charge. Blinking red – The battery power is low. Recharge the battery.  2 USB connector (rear) &amp;ndash; Connects the keyboard to a power source to recharge the batteries.</description>
+    </item>
+    
+    <item>
+      <title>Datafusion</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_components/datafusion/</link>
+      <pubDate>Fri, 10 Jul 2020 22:46:08 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_components/datafusion/</guid>
+      <description>The Constellation™, Centurion™, and ORA SYSTEM™ provide additional patient and surgical operation information to display on the system. The Constellation™ and Centurion™ systems displays the information on the surgical screen while the ORA SYSTEM™ displays the information in PiP or split screen layouts. The Constellation™ also controls basic system functions. The ORA SYSTEM™ dynamic reticle displays on the live image (activate on the ORA SYSTEM™).</description>
+    </item>
+    
+    <item>
+      <title>Footswitch (Optional)</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_components/footswitch/</link>
+      <pubDate>Fri, 10 Jul 2020 22:46:15 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_components/footswitch/</guid>
+      <description>The footswitch performs basic functions during operation through controls operated by a foot.
+1 Left push button &amp;ndash; Changes the camera orientation between standard and inverted.  2 Right push button &amp;ndash; Starts or stops movie recordings.  3 Left pedal &amp;ndash; Cycles to the previous imaging mode.  4 Right pedal &amp;ndash; Cycles to the next imaging mode.  </description>
+    </item>
+    
+    <item>
+      <title>Accessories</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_components/accessories/</link>
+      <pubDate>Fri, 10 Jul 2020 22:46:20 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_components/accessories/</guid>
+      <description>The system may include the following accessories:
+ Lens cap - Protects the camera lens. Cable straps - Secure the camera cable to the microscope. Cable hooks - Route loose cables or coil cable for storage or transportation. Display remote and batteries - Sets the display settings. Use only if directed by Technical Services. The remote may require AA or AAA batteries depending on the display modal. Screen protector - Protects the display when the system is in storage.</description>
+    </item>
+    
+    <item>
+      <title>General Specifications</title>
+      <link>https://naem-j.github.io/web-doc/system_information/specifications/general_specifications/</link>
+      <pubDate>Sun, 25 Jul 2021 22:44:37 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/specifications/general_specifications/</guid>
+      <description>   Topic Value     Weight (unpacked) 133 kg (294 lb)   Weight (packed) 333 kg (734 lb)   Dimensions (unpacked) 82.6 cm L x 122.7 cm W x 193.8 cm H (32.5” L x 48.3” W x 76.3” H)   Dimensions (packed) 106.7 cm L x 153.2 cm W x 177.3 cm H (42” L x 60.3” W x 69.8” H)    </description>
+    </item>
+    
+    <item>
+      <title>Environmental Specifications</title>
+      <link>https://naem-j.github.io/web-doc/system_information/specifications/environmental_specifications/</link>
+      <pubDate>Sun, 25 Jul 2021 22:44:37 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/specifications/environmental_specifications/</guid>
+      <description>   Topic Value     Temperature (operating) 5 °C to 30 °C (41 °F to 86 °F)   Temperature (storage and transport) 0 °C to 50 °C (32 °F to 122 °F)   Relative humidity (operating) 15% to 85% non-condensing   Relative humidty (storage and transport) 10% to 90% non-condensing   Atmospheric pressure 100 to 75 kPa   Atmospheric pressure 100 to 30 kPa    </description>
+    </item>
+    
+    <item>
+      <title>EMC Compliance</title>
+      <link>https://naem-j.github.io/web-doc/system_information/safety_information/emc_compliance/emc_compliance/</link>
+      <pubDate>Sun, 25 Jul 2021 22:38:19 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/safety_information/emc_compliance/emc_compliance/</guid>
+      <description>The NGENUITY™ system is designed to work in the Professional Healthcare facility environment.
+The NGENUITY™ system requires special precautions regarding EMC and needs to be installed and put into service according to the EMC information provided in the below tables.
+The NGENUITY™ system is a medical device designated for Indoor Use Only.
+WARNING Use of this system adjacent to or stacked with other equipment should be avoided because it could result in improper operation.</description>
+    </item>
+    
+    <item>
+      <title>Safeguards for Use with Other Medical Equipment</title>
+      <link>https://naem-j.github.io/web-doc/system_information/safety_information/emc_compliance/safeguards/</link>
+      <pubDate>Sun, 25 Jul 2021 22:38:19 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/safety_information/emc_compliance/safeguards/</guid>
+      <description>CAUTION All equipment connected to this unit shall be certified according to IEC 60601-1 or other IEC/ISO standards applicable to the equipment. Furthermore, all complete configurations shall comply with IEC 60601-1. If the user connects additional equipment to the signal input or signal output, this alters the medical device system, and it is then the user’s responsibility that the system complies with the requirements of the standard IEC 60601-1. If in doubt, contact Alcon Technical Services.</description>
+    </item>
+    
+    <item>
+      <title>Guidance and Manufacturer Declaration - Electromagnetic Emissions</title>
+      <link>https://naem-j.github.io/web-doc/system_information/safety_information/emc_compliance/electromagnetic_emissions/</link>
+      <pubDate>Sun, 25 Jul 2021 22:38:19 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/safety_information/emc_compliance/electromagnetic_emissions/</guid>
+      <description>The NGENUITY™ system is intended for use in the electromagnetic environments specified below. The customer or the user of the*NGENUITY™ system should assure it is used in such an environment.
+   Emissions Test Compliance Electromagnetic Environment - Guidance     RF Emissions (CISPR 11) Group 1 The system uses RF energy only for its internal functions. Therefore, its RF emissions are low and are not likely to cause any interference in nearby electronic equipment.</description>
+    </item>
+    
+    <item>
+      <title>Guidance and Manufacturer Declaration - Electromagnetic Immunity</title>
+      <link>https://naem-j.github.io/web-doc/system_information/safety_information/emc_compliance/electromagnetic_immunity/</link>
+      <pubDate>Sun, 25 Jul 2021 22:38:19 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/safety_information/emc_compliance/electromagnetic_immunity/</guid>
+      <description>The NGENUITY™ system is intended for use in the electromagnetic environments specified below. The customer or the user of the NGENUITY™ system should assure it is used in such an environment.
+   Immunity Test IEC 60601 Test and Compliance Level Electromagnetic Environment - Guidance      Electrostatic Discharge (IEC 61000-4-2) +/-8 kV contact, +/-15 kV air Floors should be wood, concrete, or ceramic tile. If floors are covered with synthetic material, the relative humidity should be at least 30%.</description>
+    </item>
+    
+    <item>
+      <title>Cart (Communication Link with Centurion)</title>
+      <link>https://naem-j.github.io/web-doc/system_information/safety_information/wireless_certification/comm_link/</link>
+      <pubDate>Sun, 25 Jul 2021 22:40:48 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/safety_information/wireless_certification/comm_link/</guid>
+      <description> Frequency or frequency band of transmission: 2.405 GHz to 2.480 GHz Type and frequency characteristics of the modulation: OQPSK (Offset quadrature phase-shift keying) Effective Radiated Power (ERP): 11.3 dBm (13.40 mW)  </description>
+    </item>
+    
+    <item>
+      <title>USA - Federal Communications Commission (FCC)</title>
+      <link>https://naem-j.github.io/web-doc/system_information/safety_information/wireless_certification/fcc/</link>
+      <pubDate>Fri, 10 Jul 2020 22:40:48 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/safety_information/wireless_certification/fcc/</guid>
+      <description>This device complies with part 15 of the FCC Rules. Operation is subject to the following two conditions: (1) This device may not cause harmful interference, and (2) this device must accept any interference received, including interference that may cause undesired operation.
+CAUTIONChange or modifications made to this equipment (including the antenna) not expressly approved by the Company may void the FCC authorization to operate this equipment.FCC Radiation Exposure Statement WARNINGTo ensure that the radio transmitter complies with current FCC regulations limiting both maximum output RF power and human exposure to radio frequency radiation, a separate distance of at least 20 cm must be maintained between the unit’s antenna and the body of the user and any nearby persons at all times, and unit’s antenna must not be co-located or operating in conjunction with any other antenna or transmitter.</description>
+    </item>
+    
+    <item>
+      <title>EU - RED Directive 2014/53/EU</title>
+      <link>https://naem-j.github.io/web-doc/system_information/safety_information/wireless_certification/red_directive/</link>
+      <pubDate>Fri, 10 Jul 2020 22:41:07 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/safety_information/wireless_certification/red_directive/</guid>
+      <description>This device complies with the essential requirements of the Radio Equipment Directive 2014/53/ EU.
+CAUTIONThe radio equipment is intended to be used in all EU and AFTA countries. Outdoor use may be restricted to certain frequencies and/or may require a license for operation. Contact local Authority for procedure to follow.</description>
+    </item>
+    
+    <item>
+      <title>Canada - Industry of Canada (IC)</title>
+      <link>https://naem-j.github.io/web-doc/system_information/safety_information/wireless_certification/ic/</link>
+      <pubDate>Fri, 10 Jul 2020 22:41:24 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/safety_information/wireless_certification/ic/</guid>
+      <description>This device complies with Industry Canada license-exempt RSS standards. Operation is subject to the following two conditions: (1) This device may not cause harmful interference, and (2) this device must accept any interference, including interference that may cause undesired operation of the device.
+Canada - Industrie du Canada (IC) Cet appareil est conforme aux normes d’Industrie Canada RSS exemptes de licence. Son fonctionnement est soumis aux deux conditions suivantes: (1) Cet appareil ne doit pas provoquer d’interférences nuisibles, et (2) cet appareil doit accepter toute interférence, y compris les interférences pouvant provoquer un fonctionnement indésirable de l’appareil.</description>
+    </item>
+    
+    <item>
+      <title>Cart Wireless Certifications</title>
+      <link>https://naem-j.github.io/web-doc/system_information/safety_information/wireless_certification/wireless_certificates_cart/</link>
+      <pubDate>Sun, 25 Jul 2021 22:41:07 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/safety_information/wireless_certification/wireless_certificates_cart/</guid>
+      <description>  United States FCC ID: RI7XE61
+  Australia:
+   Brazil:
+   Canada IC ID: 5131A-XE61
+  Japan:
+ 209-J00129     Korea:
+ MSIP-CRI-TCS-X61-24, R-R-Alc-NGEN     Taiwan:
+ CAAJ1LP2610T9     </description>
+    </item>
+    
+    <item>
+      <title>K830 Wireless Keyboard Certifications</title>
+      <link>https://naem-j.github.io/web-doc/system_information/safety_information/wireless_certification/wireless_certificates_k830/</link>
+      <pubDate>Sun, 25 Jul 2021 22:41:07 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/safety_information/wireless_certification/wireless_certificates_k830/</guid>
+      <description>  United States FCC ID: JNZR0047
+  Asia Pacific:
+ N231, Z855     Brazil Anatel ID: MT-0788/2010
+  Canada IC ID: 4418A-YR0047
+  China CMIIT ID: 2010DJ0355
+  EU:
+ EU Certification     Japan:
+ 204-430004     Mexico IFT ID: CFT/CT/0084/12/TS
+  </description>
+    </item>
+    
+    <item>
+      <title>K600 Wireless Keyboard Certifications</title>
+      <link>https://naem-j.github.io/web-doc/system_information/safety_information/wireless_certification/wireless_certificates_k600/</link>
+      <pubDate>Sun, 25 Jul 2021 22:41:07 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/safety_information/wireless_certification/wireless_certificates_k600/</guid>
+      <description>  United States FCC ID: JNZYR0068
+  Asia Pacific:
+   Brazil Anatel ID: 02904-18-03229
+  Canada IC ID: 4418A-YR0068
+  China CMIIT ID: 2018DJ2999
+  Japan:
+ 020-180066     Korea: R-CRM-DZL-Y-R0068
+  Taiwan: CCAI18LP0670T0
+  </description>
+    </item>
+    
+    <item>
+      <title>Label Locations</title>
+      <link>https://naem-j.github.io/web-doc/system_information/safety_information/label_locations/</link>
+      <pubDate>Fri, 10 Jul 2020 22:43:42 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/safety_information/label_locations/</guid>
+      <description>Note the safety and system label locations. Refer to the system for specific information.
+1 Moving parts warning label &amp;ndash; Includes a warning related to a protective guard.  2 Identifies compatible connectors. &amp;ndash; The location and connector type varies with the display model.  3 Oculars storage warning label &amp;ndash; Includes information about storing the microscope oculars.  4 Product label &amp;ndash; Includes information about the system.  5 Wireless label &amp;ndash; Indicates wireless capabilities.</description>
+    </item>
+    
+    <item>
+      <title>Serious incident Reporting</title>
+      <link>https://naem-j.github.io/web-doc/system_information/safety_information/serious_incident_reporting/</link>
+      <pubDate>Fri, 10 Jul 2020 22:44:00 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/safety_information/serious_incident_reporting/</guid>
+      <description>Any serious incident related to the use of this medical device should be reported to Alcon Laboratories, Inc.
+  By phone: In USA – (800) 757-9780
+In EU/International – Contact the local country office or your Alcon distributor.
+  By website: http://www.alcon.com/contact-us/
+  By email: qa.complaints@alcon.com
+  These serious incidents should also be reported to the competent authority for medical devices of your Member State.</description>
+    </item>
+    
+  </channel>
+</rss>

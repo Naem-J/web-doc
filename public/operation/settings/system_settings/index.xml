@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>System Settings on NGENUITY™ 3D Visualization System User Guide</title>
+    <link>https://naem-j.github.io/web-doc/operation/settings/system_settings/</link>
+    <description>Recent content in System Settings on NGENUITY™ 3D Visualization System User Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Jul 2020 23:47:15 -0700</lastBuildDate><atom:link href="https://naem-j.github.io/web-doc/operation/settings/system_settings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DataFusion</title>
+      <link>https://naem-j.github.io/web-doc/operation/settings/system_settings/datafusion/</link>
+      <pubDate>Sat, 11 Jul 2020 23:47:25 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/operation/settings/system_settings/datafusion/</guid>
+      <description>The DataFusion settings determine which device is connected to the system. To access DataFusion options, click DataFusion. The system can only enable one device at a time.
+1 Constellation™ toggle switch &amp;ndash; Enables Constellation™ connection.  2 Centurion™ toggle switch &amp;ndash; Enables Centurion™ connection.  3 Edit button &amp;ndash; Opens a dialog box to connect to a specific device.  To connect to a Centurion™, perform the following:
+  Click Edit.</description>
+    </item>
+    
+    <item>
+      <title>Input Source</title>
+      <link>https://naem-j.github.io/web-doc/operation/settings/system_settings/input_source/</link>
+      <pubDate>Sat, 11 Jul 2020 23:47:35 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/operation/settings/system_settings/input_source/</guid>
+      <description>The input source controls which port is displayed in the secondary view. To set the secondary input source, click Input Source.
+NOTICENo other sources are available for systems with a connected ORA SYSTEM&amp;trade;.In the View 2 panel, select one of the following:
+ HDMI – Displays the input source from a connected ORA SYSTEM™. Composite – Displays the input source connected to the front panel composite connector.</description>
+    </item>
+    
+    <item>
+      <title>Monitor</title>
+      <link>https://naem-j.github.io/web-doc/operation/settings/system_settings/monitor/</link>
+      <pubDate>Sat, 11 Jul 2020 23:47:47 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/operation/settings/system_settings/monitor/</guid>
+      <description>The monitor system settings have adjustable settings for displays connected to the system. To access Monitor options, click Monitor.
+Basic Monitor Settings WARNINGOnly the provided monitor should be used as the Primary Monitor.1 Monitor drop-down menu &amp;ndash; Selects a display.  2 Primary Monitor toggle switch &amp;ndash; Sets the selected display to the primary display.  3 View drop-down menu &amp;ndash; Sets the content on the screen.</description>
+    </item>
+    
+  </channel>
+</rss>

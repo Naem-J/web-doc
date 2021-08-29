@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3d on NGENUITY™ 3D Visualization System User Guide</title>
+    <link>https://naem-j.github.io/web-doc/tags/3d/</link>
+    <description>Recent content in 3d on NGENUITY™ 3D Visualization System User Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Jul 2020 22:45:52 -0700</lastBuildDate><atom:link href="https://naem-j.github.io/web-doc/tags/3d/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Glasses</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_components/glasses/</link>
+      <pubDate>Fri, 10 Jul 2020 22:45:52 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_components/glasses/</guid>
+      <description>3D images require passive, circularly-polarized 3D glasses. If necessary, wear the 3D glasses over prescription glasses.
+CAUTION To ensure optimal image quality, the system should only be used with Alcon-supplied 3D glasses. Contact Alcon if additional pairs are required. Polarized prescription glasses will distort the 3D effect and should not be used. The 3D glasses must be worn in front of the laser protective eyewear to avoid distorting the 3D effect.</description>
+    </item>
+    
+  </channel>
+</rss>

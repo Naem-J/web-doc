@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>System Components on NGENUITY™ 3D Visualization System User Guide</title>
+    <link>https://naem-j.github.io/web-doc/system_information/system_components/</link>
+    <description>Recent content in System Components on NGENUITY™ 3D Visualization System User Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Jul 2020 22:45:21 -0700</lastBuildDate><atom:link href="https://naem-j.github.io/web-doc/system_information/system_components/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Camera</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_components/camera/</link>
+      <pubDate>Fri, 10 Jul 2020 22:45:28 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_components/camera/</guid>
+      <description>The camera is a stereoscopic 3D camera with high dynamic range. Mount the camera on a surgical microscope.
+1 Camera &amp;ndash; Captures video from the connected microscope.  2 Strain relief screw &amp;ndash; Holds the camera cable in place to reduce stress on the cable connection.  3 USB camera connector &amp;ndash; Connects the camera to the cart.  4 Iris slider &amp;ndash; Adjusts light exposure captured by the camera. Alcon recommends setting the iris slider to 30%.</description>
+    </item>
+    
+    <item>
+      <title>Cart</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_components/cart/</link>
+      <pubDate>Fri, 10 Jul 2020 22:45:38 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_components/cart/</guid>
+      <description>The cart receives video input from the camera and additional data from other connected devices, and then outputs the results on the monitor.
+1 Primary Display &amp;ndash; Produces 3840 x 2160p 3D resolution video. 3D images require passive, circularly-polarized 3D glasses.  2 Touchpad &amp;ndash; Controls the cursor on the display. Another touchpad is also available on the wireless keyboard.  3 Front panel connectors &amp;ndash; Includes 2 USB, an HDMI output, and a composite connector.</description>
+    </item>
+    
+    <item>
+      <title>Displays</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_components/displays/</link>
+      <pubDate>Fri, 10 Jul 2020 22:45:44 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_components/displays/</guid>
+      <description>Depending on the display model, the system connects to the display either through DisplayPort input 1 or both the HDMI input 3 and COMM cable connector. The system also supports a secondary display to either duplicate the primary display view or show a subset of features.</description>
+    </item>
+    
+    <item>
+      <title>Glasses</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_components/glasses/</link>
+      <pubDate>Fri, 10 Jul 2020 22:45:52 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_components/glasses/</guid>
+      <description>3D images require passive, circularly-polarized 3D glasses. If necessary, wear the 3D glasses over prescription glasses.
+CAUTION To ensure optimal image quality, the system should only be used with Alcon-supplied 3D glasses. Contact Alcon if additional pairs are required. Polarized prescription glasses will distort the 3D effect and should not be used. The 3D glasses must be worn in front of the laser protective eyewear to avoid distorting the 3D effect.</description>
+    </item>
+    
+    <item>
+      <title>Keyboard and Mouse</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_components/keyboard_and_mouse/</link>
+      <pubDate>Fri, 10 Jul 2020 22:45:58 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_components/keyboard_and_mouse/</guid>
+      <description>The system includes both a wired and a wireless keyboard with an integrated touchpad. The wireless keyboard is rechargeable and the battery indicator displays the charge level while the keyboard is on.
+1 Power indicator &amp;ndash; Lights according to the battery status   Blinking green - The battery is charging. Solid green – The battery has adequate charge. Blinking red – The battery power is low. Recharge the battery.  2 USB connector (rear) &amp;ndash; Connects the keyboard to a power source to recharge the batteries.</description>
+    </item>
+    
+    <item>
+      <title>Datafusion</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_components/datafusion/</link>
+      <pubDate>Fri, 10 Jul 2020 22:46:08 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_components/datafusion/</guid>
+      <description>The Constellation™, Centurion™, and ORA SYSTEM™ provide additional patient and surgical operation information to display on the system. The Constellation™ and Centurion™ systems displays the information on the surgical screen while the ORA SYSTEM™ displays the information in PiP or split screen layouts. The Constellation™ also controls basic system functions. The ORA SYSTEM™ dynamic reticle displays on the live image (activate on the ORA SYSTEM™).</description>
+    </item>
+    
+    <item>
+      <title>Footswitch (Optional)</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_components/footswitch/</link>
+      <pubDate>Fri, 10 Jul 2020 22:46:15 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_components/footswitch/</guid>
+      <description>The footswitch performs basic functions during operation through controls operated by a foot.
+1 Left push button &amp;ndash; Changes the camera orientation between standard and inverted.  2 Right push button &amp;ndash; Starts or stops movie recordings.  3 Left pedal &amp;ndash; Cycles to the previous imaging mode.  4 Right pedal &amp;ndash; Cycles to the next imaging mode.  </description>
+    </item>
+    
+    <item>
+      <title>Accessories</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_components/accessories/</link>
+      <pubDate>Fri, 10 Jul 2020 22:46:20 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_components/accessories/</guid>
+      <description>The system may include the following accessories:
+ Lens cap - Protects the camera lens. Cable straps - Secure the camera cable to the microscope. Cable hooks - Route loose cables or coil cable for storage or transportation. Display remote and batteries - Sets the display settings. Use only if directed by Technical Services. The remote may require AA or AAA batteries depending on the display modal. Screen protector - Protects the display when the system is in storage.</description>
+    </item>
+    
+  </channel>
+</rss>

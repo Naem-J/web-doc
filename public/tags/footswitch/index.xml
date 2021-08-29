@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>footswitch on NGENUITY™ 3D Visualization System User Guide</title>
+    <link>https://naem-j.github.io/web-doc/tags/footswitch/</link>
+    <description>Recent content in footswitch on NGENUITY™ 3D Visualization System User Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Jul 2020 22:46:15 -0700</lastBuildDate><atom:link href="https://naem-j.github.io/web-doc/tags/footswitch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Footswitch (Optional)</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_components/footswitch/</link>
+      <pubDate>Fri, 10 Jul 2020 22:46:15 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_components/footswitch/</guid>
+      <description>The footswitch performs basic functions during operation through controls operated by a foot.
+1 Left push button &amp;ndash; Changes the camera orientation between standard and inverted.  2 Right push button &amp;ndash; Starts or stops movie recordings.  3 Left pedal &amp;ndash; Cycles to the previous imaging mode.  4 Right pedal &amp;ndash; Cycles to the next imaging mode.  </description>
+    </item>
+    
+  </channel>
+</rss>

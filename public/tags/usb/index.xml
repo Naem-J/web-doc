@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>USB on NGENUITY™ 3D Visualization System User Guide</title>
+    <link>https://naem-j.github.io/web-doc/tags/usb/</link>
+    <description>Recent content in USB on NGENUITY™ 3D Visualization System User Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Jul 2020 00:02:58 -0700</lastBuildDate><atom:link href="https://naem-j.github.io/web-doc/tags/usb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accessories</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_components/accessories/</link>
+      <pubDate>Fri, 10 Jul 2020 22:46:20 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_components/accessories/</guid>
+      <description>The system may include the following accessories:
+ Lens cap - Protects the camera lens. Cable straps - Secure the camera cable to the microscope. Cable hooks - Route loose cables or coil cable for storage or transportation. Display remote and batteries - Sets the display settings. Use only if directed by Technical Services. The remote may require AA or AAA batteries depending on the display modal. Screen protector - Protects the display when the system is in storage.</description>
+    </item>
+    
+    <item>
+      <title>Add a Doctor Profile</title>
+      <link>https://naem-j.github.io/web-doc/operation/doctor_management/add_doctor/</link>
+      <pubDate>Sat, 11 Jul 2020 23:23:03 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/operation/doctor_management/add_doctor/</guid>
+      <description>To create a new doctor profile, perform the following:
+ In the Home panel, select the doctor Add button. The New Doctor dialog box opens. In the Name field, enter a profile name. To copy settings from another profile, perform the following:  Click the Copy Settings From toggle switch. Click Local to copy a profile stored on the system or click USB to copy a profile from a connected USB drive.</description>
+    </item>
+    
+    <item>
+      <title>External USB Drives</title>
+      <link>https://naem-j.github.io/web-doc/additional_information/external_drives/</link>
+      <pubDate>Thu, 16 Jul 2020 00:02:58 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/additional_information/external_drives/</guid>
+      <description>To transfer recorded video or snapshots to an external hard drive, connect the drive to a USB 3.0 connector (recommended) on the cart side panel or a USB 2.0 connector on the cart front panel. The drive must be in exFAT format. Alcon recommends using only 1 drive at a time.
+NOTICEDo not connect or use an external hard drive during surgery. If the hard drive is protected or has a password, unlock the drive before use.</description>
+    </item>
+    
+  </channel>
+</rss>

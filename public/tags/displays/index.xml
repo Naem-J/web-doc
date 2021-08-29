@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>displays on NGENUITY™ 3D Visualization System User Guide</title>
+    <link>https://naem-j.github.io/web-doc/tags/displays/</link>
+    <description>Recent content in displays on NGENUITY™ 3D Visualization System User Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Jul 2021 22:15:33 -0700</lastBuildDate><atom:link href="https://naem-j.github.io/web-doc/tags/displays/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Displays</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_components/displays/</link>
+      <pubDate>Fri, 10 Jul 2020 22:45:44 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_components/displays/</guid>
+      <description>Depending on the display model, the system connects to the display either through DisplayPort input 1 or both the HDMI input 3 and COMM cable connector. The system also supports a secondary display to either duplicate the primary display view or show a subset of features.</description>
+    </item>
+    
+    <item>
+      <title>Secondary Display (Optional)</title>
+      <link>https://naem-j.github.io/web-doc/system_setup/system_assembly/secondary_display/</link>
+      <pubDate>Fri, 10 Jul 2020 22:09:17 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_setup/system_assembly/secondary_display/</guid>
+      <description>To connect a secondary display, connect the it to the HDMI output connector on the system front panel.</description>
+    </item>
+    
+    <item>
+      <title>Display Articulation</title>
+      <link>https://naem-j.github.io/web-doc/system_setup/system_position/display_articulation/</link>
+      <pubDate>Sun, 25 Jul 2021 22:15:33 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_setup/system_position/display_articulation/</guid>
+      <description>The display moves up or down the mast, rotates side to side, and tilts back or forth. Only grasp the bottom or sides of the display while adjusting it. Avoid putting stress on the top of the display.
+NOTICEIf necessary, loosen the adjustment knobs on the display mounting bracket to adjust the tilt and tighten them to secure it. Do not remove the adjustment knobs.</description>
+    </item>
+    
+    <item>
+      <title>View Optimization</title>
+      <link>https://naem-j.github.io/web-doc/system_setup/system_position/view_optimization/</link>
+      <pubDate>Sun, 25 Jul 2021 22:15:33 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_setup/system_position/view_optimization/</guid>
+      <description>For the best 3D effect, place the display next to the patient bed, between 4′ to 6′ (1.2 m to 1.8 m) away from the user. Depending on the display, align either the bottom third or middle of the display perpendicular with the line of sight of the seated user. If necessary, also ensure other viewers have a satisfactory view.</description>
+    </item>
+    
+    <item>
+      <title>Monitor</title>
+      <link>https://naem-j.github.io/web-doc/operation/settings/system_settings/monitor/</link>
+      <pubDate>Sat, 11 Jul 2020 23:47:47 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/operation/settings/system_settings/monitor/</guid>
+      <description>The monitor system settings have adjustable settings for displays connected to the system. To access Monitor options, click Monitor.
+Basic Monitor Settings WARNINGOnly the provided monitor should be used as the Primary Monitor.1 Monitor drop-down menu &amp;ndash; Selects a display.  2 Primary Monitor toggle switch &amp;ndash; Sets the selected display to the primary display.  3 View drop-down menu &amp;ndash; Sets the content on the screen.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bed on NGENUITY™ 3D Visualization System User Guide</title>
+    <link>https://naem-j.github.io/web-doc/tags/bed/</link>
+    <description>Recent content in bed on NGENUITY™ 3D Visualization System User Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Jul 2020 22:45:21 -0700</lastBuildDate><atom:link href="https://naem-j.github.io/web-doc/tags/bed/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>System Components</title>
+      <link>https://naem-j.github.io/web-doc/system_information/system_components/</link>
+      <pubDate>Fri, 10 Jul 2020 22:45:21 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/system_components/</guid>
+      <description>At a minimum, the system includes the cart, camera, microscope, 3D glasses, keyboard, and touchpad. To optimize operation, incorporate additional devices such as the following:
+1 System &amp;ndash; Receives video from the camera and displays 3D images.  2 Patient Bed &amp;ndash; Holds the patient at a comfortable level.  3 Microscope stand &amp;ndash; Suspends a microscope above the patient.  4 Camera &amp;ndash; Captures 3D video.  5 Microscope &amp;ndash; Magnifies the view of the camera.</description>
+    </item>
+    
+  </channel>
+</rss>

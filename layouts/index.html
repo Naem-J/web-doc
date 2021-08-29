@@ -1,0 +1,11 @@
+{{ define "main" }}
+{{- if .Site.Home.Content -}}
+{{- .Site.Home.Content -}}
+{{- partial "pagination.html" . -}}
+{{- partial "edit-meta.html" . -}}
+{{- partial "powered.html" . -}}
+{{- else -}}
+<h1>Web Document Example</h1>
+<p>This document repurposes content from multiple projects I worked on and displays it in a web format.
+{{- end -}}
+{{- end -}}

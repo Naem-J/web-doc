@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>connected on NGENUITY™ 3D Visualization System User Guide</title>
+    <link>https://naem-j.github.io/web-doc/tags/connected/</link>
+    <description>Recent content in connected on NGENUITY™ 3D Visualization System User Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Jul 2020 23:43:13 -0700</lastBuildDate><atom:link href="https://naem-j.github.io/web-doc/tags/connected/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recordings</title>
+      <link>https://naem-j.github.io/web-doc/operation/live_case/recordings/</link>
+      <pubDate>Sat, 11 Jul 2020 23:43:13 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/operation/live_case/recordings/</guid>
+      <description>Recordings save video from the camera. To save overlay information, enable the applicable DataFusion feature. Overlay information includes patient and case information from the system, or other data from connected systems.</description>
+    </item>
+    
+  </channel>
+</rss>

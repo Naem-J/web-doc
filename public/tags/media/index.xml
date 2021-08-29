@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>media on NGENUITY™ 3D Visualization System User Guide</title>
+    <link>https://naem-j.github.io/web-doc/tags/media/</link>
+    <description>Recent content in media on NGENUITY™ 3D Visualization System User Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Jul 2020 23:43:31 -0700</lastBuildDate><atom:link href="https://naem-j.github.io/web-doc/tags/media/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Home Screen Layout</title>
+      <link>https://naem-j.github.io/web-doc/operation/software_overview/home_screen/</link>
+      <pubDate>Sat, 11 Jul 2020 23:22:10 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/operation/software_overview/home_screen/</guid>
+      <description>1 Home panel &amp;ndash; Contains menus to manage doctor profiles, add or delete patient profiles, and start a case.  2 Shutdown button &amp;ndash; Turns off the system.  3 System Settings button &amp;ndash; Opens the system settings options (see System Settings).  4 Media Management App button &amp;ndash; Opens an application to view and edit recorded video and snapshots.  5 Eject Drive button &amp;ndash; Safely ejects a connected hard drive.</description>
+    </item>
+    
+    <item>
+      <title>End Case</title>
+      <link>https://naem-j.github.io/web-doc/operation/end_case/</link>
+      <pubDate>Sat, 11 Jul 2020 23:43:31 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/operation/end_case/</guid>
+      <description>When the case is complete, click End Case. Recordings stop and the following prompts appear:
+ If any imaging mode changes were made during the case, select Yes to save the changes or No to delete the changes. If desired, save recorded video. To save a copy of the video to an external hard drive, connect one to a side panel USB connector. If a patient profile was not selected, enter patient information.</description>
+    </item>
+    
+  </channel>
+</rss>

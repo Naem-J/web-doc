@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>system on NGENUITY™ 3D Visualization System User Guide</title>
+    <link>https://naem-j.github.io/web-doc/tags/system/</link>
+    <description>Recent content in system on NGENUITY™ 3D Visualization System User Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Jul 2020 23:43:44 -0700</lastBuildDate><atom:link href="https://naem-j.github.io/web-doc/tags/system/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Home Screen Layout</title>
+      <link>https://naem-j.github.io/web-doc/operation/software_overview/home_screen/</link>
+      <pubDate>Sat, 11 Jul 2020 23:22:10 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/operation/software_overview/home_screen/</guid>
+      <description>1 Home panel &amp;ndash; Contains menus to manage doctor profiles, add or delete patient profiles, and start a case.  2 Shutdown button &amp;ndash; Turns off the system.  3 System Settings button &amp;ndash; Opens the system settings options (see System Settings).  4 Media Management App button &amp;ndash; Opens an application to view and edit recorded video and snapshots.  5 Eject Drive button &amp;ndash; Safely ejects a connected hard drive.</description>
+    </item>
+    
+    <item>
+      <title>Settings</title>
+      <link>https://naem-j.github.io/web-doc/operation/settings/</link>
+      <pubDate>Sat, 11 Jul 2020 23:43:44 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/operation/settings/</guid>
+      <description>To adjust image settings, click Settings.
+1 Vit System button &amp;ndash; Includes overlay options and imaging mode linking.  2 Phaco System button &amp;ndash; Includes overlay options.  3 Screen Layout button &amp;ndash; Adjusts the display layout and what features are included during surgical cases.  4 Recording button &amp;ndash; Sets video parameters.  5 Color Channels button &amp;ndash; Manages color emphasis.  6 Light Profiles button &amp;ndash; Adjusts colors depending on the light source.</description>
+    </item>
+    
+  </channel>
+</rss>

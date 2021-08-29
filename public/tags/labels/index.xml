@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>labels on NGENUITY™ 3D Visualization System User Guide</title>
+    <link>https://naem-j.github.io/web-doc/tags/labels/</link>
+    <description>Recent content in labels on NGENUITY™ 3D Visualization System User Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Jul 2020 22:43:42 -0700</lastBuildDate><atom:link href="https://naem-j.github.io/web-doc/tags/labels/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Label Locations</title>
+      <link>https://naem-j.github.io/web-doc/system_information/safety_information/label_locations/</link>
+      <pubDate>Fri, 10 Jul 2020 22:43:42 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc/system_information/safety_information/label_locations/</guid>
+      <description>Note the safety and system label locations. Refer to the system for specific information.
+1 Moving parts warning label &amp;ndash; Includes a warning related to a protective guard.  2 Identifies compatible connectors. &amp;ndash; The location and connector type varies with the display model.  3 Oculars storage warning label &amp;ndash; Includes information about storing the microscope oculars.  4 Product label &amp;ndash; Includes information about the system.  5 Wireless label &amp;ndash; Indicates wireless capabilities.</description>
+    </item>
+    
+  </channel>
+</rss>
